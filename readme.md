@@ -6,32 +6,83 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### CCS
 
+* CCS 24 - TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning
+* CCS 24 - Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models
+* CCS 24 - Lutris: A Blockchain Combining Broadcast and Consensus
+* CCS 24 - Blockchain Bribing Attacks and the Efficacy of Counterincentives
+* CCS 24 - zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials
 * CCS 24 - [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Rolling+in+the+Shadows%3A+Analyzing+the+Extraction+of+MEV+Across+Layer-2+Rollups&btnG=)
 * CCS 24 - [Stealing Trust- Unraveling Blind Message Attacks in Web3 Authentication](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stealing+Trust-+Unraveling+Blind+Message+Attacks+in+Web3+Authentication&btnG=)
 * CCS 24 - [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=fAmulet%3A+Finding+Finalization+Failure+Bugs+in+Polygon+zkRollup&btnG=)
 * CCS 24 - [DoubleUp Roll: Double-spending Vulnerabilities in Arbitrum and Optimism](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DoubleUp+Roll%3A+Double-spending+Vulnerabilities+in+Arbitrum+and+Optimism&btnG=)
 * CCS 24 - [Characterizing Ethereum Address Poisoning Attack](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Characterizing+Ethereum+Address+Poisoning+Attack&btnG=)
+* CCS 23 - [Lanturn: Measuring economic security of smart contracts through adaptive learning](https://dl.acm.org/doi/abs/10.1145/3576915.3623204?casa_token=Ull5_ykaCgAAAAAA:oCQtYl8M9pVK_8ax2tsZWX76hdClUzkUmffCZSjsRJCgV_yYLarCMZTRCd9P0YDf4SWBnaX_w7ZvheM)
+* CCS 23 - [How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master)
+* CCS 23 - [Uncle maker:(time) stamping out the competition in ethereum](https://dl.acm.org/doi/abs/10.1145/3576915.3616674)
+* CCS 23 - [Analyzing the Real-World Security of the Algorand Blockchain](https://dl.acm.org/doi/abs/10.1145/3576915.3623167)
+* CCS 23 - [Fuzz on the beach: Fuzzing solana smart contracts](https://dl.acm.org/doi/abs/10.1145/3576915.3623178?casa_token=5X-T6OIs824AAAAA:GBLQdpEynhqXnfD2hgElTYscexq8edgmybwnSplW3YcMi9xYBroA5yfGLb4WSailSusQRQISNgsA5CY)
+* CCS 23 - [Cybercrime bitcoin revenue estimations: Quantifying the impact of methodology and coverage](https://dl.acm.org/doi/abs/10.1145/3576915.3623094)
+* CCS 23 - [Uncovering Impact of Mental Models towards Adoption of Multi-device Crypto-Wallets](https://dl.acm.org/doi/abs/10.1145/3576915.3623218?casa_token=tDbZyF0jMt0AAAAA:rrZDGnaAGd7SuxHWcVExTDsfDrODT_qBgHYWvnOLPkqIPSuLxNcGD2KRggjPqyhC2ulB_IsIiQIQTfw)
 * CCS 23 - [Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Under+the+Dark%3A+A+Systematical+Study+of+Stealthy+Mining+Pools+%28Ab%29use+in+the+Wild&btnG=)
 * CCS 23 - [Demystifying DeFi MEV Activities in Flashbots Bundle](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Demystifying+DeFi+MEV+Activities+in+Flashbots+Bundle&btnG=)
 * CCS 23 - [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TxPhishScope%3A+Towards+Detecting+and+Understanding+Transaction-based+Phishing+on+Ethereum&btnG=)
 * CCS 22 - [Empirical Analysis of EIP-1559: Transaction Fees, Waiting Times, and Consensus Security](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Empirical+Analysis+of+EIP-1559%3A+Transaction+Fees%2C+Waiting+Times%2C+and+Consensus+Security&btnG=)
+* CCS 22 - [Towards automated safety vetting of smart contracts in decentralized applications](https://dl.acm.org/doi/abs/10.1145/3548606.3559384)
+* CCS 22 - [VRust: Automated vulnerability detection for solana smart contracts](https://dl.acm.org/doi/abs/10.1145/3548606.3560552)
+* CCS 22 - [Watch your back: identifying cybercrime financial relationships in bitcoin through back-and-forth exploration](https://dl.acm.org/doi/abs/10.1145/3548606.3560587)
+* CCS 22 - [Understanding security issues in the NFT ecosystem](https://dl.acm.org/doi/abs/10.1145/3548606.3559342)
+* CCS 21 - [Deter: Denial of ethereum txpool services](https://dl.acm.org/doi/abs/10.1145/3460120.3485369)
+* CCS 21 - [Syncattack: Double-spending in bitcoin without mining power](https://dl.acm.org/doi/abs/10.1145/3460120.3484568)
+* CCS 20 - [ethor: Practical and provably sound static analysis of ethereum smart contracts](https://dl.acm.org/doi/abs/10.1145/3372297.3417250?casa_token=Wqhzlx5g8j4AAAAA:wHweJuU2KoES7ZQvNp7-qC6vzR1D94jM4KxAhjL0bWwO_fKM3gXByWxAnjpTi0QJjwId_Juq5fWpNy4)
+* CCS 20 - [Bdos: Blockchain denial-of-service](https://dl.acm.org/doi/abs/10.1145/3372297.3417247?casa_token=9dqWfQNl82kAAAAA:o0Rd2eZVv-uBqanJCbIDEdA8mI09jckRPbcxLxY6uYl7zEHamkBCwThPr7u9jWBc1siKYVlBQTbThiM)
+* CCS 19 - Tokenscope: Automatically detecting inconsistent behaviors of cryptocurrency tokens in ethereum
+* CCS 19 - [Power adjusting and bribery racing: Novel mining attacks in the bitcoin system](https://dl.acm.org/doi/abs/10.1145/3319535.3354203?casa_token=xLz-OozqQroAAAAA:0kL7UecW8hMvAQzpv8ULn9k41WJynntymzzy3VQ65e4W_nRAmb_aH0q9p_zUH0QPPnDokB5OroM4yYc)
+* CCS 19 - [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363230)
+* CCS 19 - [Zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363222)
+* CCS 18 - [Securify: Practical Security Analysis of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3243734.3243780)
+* CCS 18 - [BitML: a calculus for Bitcoin smart contracts Massimo](https://dl.acm.org/doi/pdf/10.1145/3243734.3243795)
+* CCS 17 - [Be selfish and avoid dilemmas: Fork after withholding (faw) attacks on bitcoin](https://dl.acm.org/doi/abs/10.1145/3133956.3134019?casa_token=RygrxGCbX1wAAAAA:mCNjib6WmZcqSJ_vmYligwXGkfAGSVTujZ9YWVoPTcFUe8fyrOgCkrb9vu4vxdjM4t37TCG9sF8F0ys)
+* CCS 16 - [Making Smart Contracts Smarter](https://dl.acm.org/doi/pdf/10.1145/2976749.2978309)
+* CCS 16 - [Town crier: An authenticated data feed for smart contracts](https://dl.acm.org/doi/pdf/10.1145/2976749.2978326)
 
-##### SP 
+##### SP
 
+* SP 25 - [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://arxiv.org/pdf/2407.03543).
 * SP 24 - [Non-Atomic Arbitrage in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Non-Atomic+Arbitrage+in+Decentralized+Finance&btnG=)
 * SP 24 - [Routing Attacks on Cryptocurrency Mining Pools](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Routing+Attacks+on+Cryptocurrency+Mining+Pools&btnG=)
 * SP 24 - [POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=POMABuster%3A+Detecting+Price+Oracle+Manipulation+Attacks+in+Decentralized+Finance&btnG=)
 * SP 24 - [Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pulling+Off+The+Mask%3A+Forensic+Analysis+of+the+Deceptive+Creator+Wallets+Behind+Smart+Contract+Fraud&btnG=)
+* SP 24 - [NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://github.com/hzysvilla/Nurgle_Oakland24/blob/main/Nurgle_oakland24.pdf)
+* SP 24 - [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271.pdf)
+* SP 24 - Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay
+* SP 24 - [Optimal flexible consensus and its application to Ethereum](https://ieeexplore.ieee.org/abstract/document/10646887/?casa_token=EisEZfv5qcwAAAAA:q-h1aHl3SCxm1NT1X71CYYxlwkiu_hKDOFtoeSkgZjYZYOH2MEAPuIYRtplRYb-qrVTBaqBlRBbmcg)
+* SP 24 - [Towards Smart Contract Fuzzing on GPU](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a195/1WPcYmDLzKo)
+* SP 24 - [Smartinv: Multimodal learning for smart contract invariant inference](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a126/1Ub23GNTAeQ)
+* SP 24 - [Conning the crypto conman: End-to-end analysis of cryptocurrency-based technical support scams](https://ieeexplore.ieee.org/abstract/document/10646605/?casa_token=fBGGnMzzzxUAAAAA:iIj-HpuMC_dT60sg9H-BV7onofnHcZRJC4HTs0ir_sS4nDEEjHKh98kvSxkSBCJCoTbtpbq-e4liwg)
+* SP 24 - [Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a146/1Ub2446HQje)
+* SP 24 - [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://ieeexplore.ieee.org/abstract/document/10646707/?casa_token=GRck-lXE7a4AAAAA:UGkA2ZOuW7Qr7Eq0_1akGIqQUTeY2wviVsOXgqqGdpj6_AfzfUkOPRug43Z7llGOyVtSenHwHBcviA)
+* SP 23 - [Three birds with one stone: Efficient partitioning attacks on interdependent cryptocurrency networks](https://ieeexplore.ieee.org/abstract/document/10179456/?casa_token=3io6k7Rmm48AAAAA:D9llzQXe6vMc3FyrG4phWhQH6uUt-CY4qNSWGsQOpQCuhLdGh-nIf3FAI02P9BORTK68fWDrD7lBew)
 * SP 23 - [SoK: Decentralized Finance (DeFi) Attacks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SoK%3A+Decentralized+Finance+%28DeFi%29+Attacks&btnG=)
+* SP 23 - [Clockwork finance: Automated analysis of economic security in smart contracts](https://ieeexplore.ieee.org/abstract/document/10179346/?casa_token=7Fofex8Yaz0AAAAA:xFmIMs0P_s2YI9BPvzxjyZowvDVMnIZOZMkolAZmbCpTqBYFonsl6EUmhoxCUfnr3Dqn66AstG5CIA)
 * SP 22 - [Quantifying Blockchain Extractable Value- How dark is the forest?](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Quantifying+Blockchain+Extractable+Value-+How+dark+is+the+forest%3F&btnG=)
+* SP 22 - [Sailfish: Vetting smart contract state-inconsistency bugs in seconds](https://ieeexplore.ieee.org/abstract/document/9833721/?casa_token=ETzTUUvuU9EAAAAA:rTxbJy11MSC5Ue6c_-OdpnrXaSLw0P388qJwLzhvZftOjPB02jRADUlAcN0nZoYkMJZPUkZH47ykaQ)
+* SP 21 - [SmartPulse: automated checking of temporal properties in smart contracts](https://ieeexplore.ieee.org/abstract/document/9519387/?casa_token=3Vi_TNe2l9QAAAAA:ulzyK0yur-rx9OzDjPPl_zf6OTkragHrGoYP7q8lSbpRWr5IPrnLHaWDmDoV70m_pp3W3YTA5ucGOg)
+* SP 21 - [SGUARD: towards fixing vulnerable smart contracts automatically](https://ieeexplore.ieee.org/abstract/document/9519444/?casa_token=qmTuodD666EAAAAA:M1XsmB7r5ThBBeUqVPAVQHTsto0jGTbZhkmRPlUwtDJ2xr88qGwQBXgwEQH_-hxALUpVLtrecxt8SA)
 * SP 21 - [High-frequency trading on decentralized on-chain exchanges](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=High-frequency+trading+on+decentralized+on-chain+exchanges&btnG=)
 * SP 21 - [On the just-in-time discovery of profit-generating transactions in defi protocols](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=On+the+just-in-time+discovery+of+profit-generating+transactions+in+defi+protocols&btnG=)
 * SP 20 - [Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Flash+boys+2.0%3A+Frontrunning+in+decentralized+exchanges%2C+miner+extractable+value%2C+and+consensus+instability&btnG=)
+* SP 15 - [The miner's dilemma](https://ieeexplore.ieee.org/abstract/document/7163020/?casa_token=2ShbDBdLkqsAAAAA:2azvGTReTOEq1W57w26L7RFfiWDIccjuTzxLD9j4ErZZ7skL1hrK4FqetEvLKdwQK9gBnIftdGZ3cw)
 
 ##### Usenix Security 
 
 * Security 24 - All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts
+* Security 24 - [zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://eprint.iacr.org/2024/888)
+* Security 24 - [Understanding Ethereum Mempool Security under Asymmetric {DoS} by Symbolized Stateful Fuzzing](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yibo)
+* Security 24 - [Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum {PoS}](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-mingfei)
 * Security 24 - [Speculative {Denial-of-Service} Attacks In Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Speculative+%7BDenial-of-Service%7D+Attacks+In+Ethereum&btnG=)
+* Security 24 - [Sprints: Intermittent Blockchain {PoW} Mining](https://www.usenix.org/conference/usenixsecurity24/presentation/mirkin)
+* Security 23 - [Smart learning to find dumb contracts](https://www.usenix.org/conference/usenixsecurity23/presentation/abdelaziz
+* Security 23 - [Confusum contractum: confused deputy vulnerabilities in ethereum smart contracts](https://www.usenix.org/conference/usenixsecurity23/presentation/gritti)
 * Security 23 - [Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Your+Exploit+is+Mine%3A+Instantly+Synthesizing+Counterattack+Smart+Contract&btnG=)
 * Security 23 - [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+A+Large+Scale+Study+of+the+Ethereum+Arbitrage+Ecosystem&btnG=)
 * Security 23 - [The Blockchain Imitation Game](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+Blockchain+Imitation+Game&btnG=)
