@@ -240,7 +240,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ASE 24 - Xscope: Hunting for Cross-Chain Bridge Attacks
 * ASE 24 - Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts
 * ASE 24 - AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis
-* ASE 24 - Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models
+* ASE 24 - [Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models](https://arxiv.org/pdf/2411.07498)
 * ASE 24 - Detecting Malicious Accounts in Web3 through Transaction Graph
 * ASE 24 - WalletRadar: Towards Automating the Detection of Vulnerabilities in Browser-based Cryptocurrency Wallets
 
