@@ -47,7 +47,8 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### SP
 
-* SP 25 - [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://arxiv.org/pdf/2407.03543).
+* SP 25 - [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://arxiv.org/pdf/2407.03543)
+* SP 24 - [Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a220/1WPcYKIy2NG)
 * SP 24 - [Non-Atomic Arbitrage in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Non-Atomic+Arbitrage+in+Decentralized+Finance&btnG=)
 * SP 24 - [Routing Attacks on Cryptocurrency Mining Pools](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Routing+Attacks+on+Cryptocurrency+Mining+Pools&btnG=)
 * SP 24 - [POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=POMABuster%3A+Detecting+Price+Oracle+Manipulation+Attacks+in+Decentralized+Finance&btnG=)
@@ -81,13 +82,40 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * Security 24 - [Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum {PoS}](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-mingfei)
 * Security 24 - [Speculative {Denial-of-Service} Attacks In Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Speculative+%7BDenial-of-Service%7D+Attacks+In+Ethereum&btnG=)
 * Security 24 - [Sprints: Intermittent Blockchain {PoW} Mining](https://www.usenix.org/conference/usenixsecurity24/presentation/mirkin)
-* Security 23 - [Smart learning to find dumb contracts](https://www.usenix.org/conference/usenixsecurity23/presentation/abdelaziz
+* Security 23 - [Smart learning to find dumb contracts](https://www.usenix.org/conference/usenixsecurity23/presentation/abdelaziz)
+* Security 23 - [Panda: Security Analysis of Algorand Smart Contracts](https://arxiv.org/pdf/2009.02663)
+* Security 23 - [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://yueduan.github.io/pub/uschunt_usenix23.pdf)
 * Security 23 - [Confusum contractum: confused deputy vulnerabilities in ethereum smart contracts](https://www.usenix.org/conference/usenixsecurity23/presentation/gritti)
 * Security 23 - [Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Your+Exploit+is+Mine%3A+Instantly+Synthesizing+Counterattack+Smart+Contract&btnG=)
+* Security 23 - [A Mixed-Methods Study of Security Practices of Smart Contract Developers](https://www.usenix.org/system/files/usenixsecurity23-sharma.pdf)
+* Security 23 - [Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes](https://www.usenix.org/system/files/usenixsecurity23-taverna.pdf)
+* Security 23 - [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://arxiv.org/pdf/2206.08202.pdf)
+* Security 23 - [Automated Inference on Financial Security of Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-wang-wansen.pdf)
+* Security 23 - [Is your wallet snitching on you? an analysis on the privacy implications of web3](https://www.usenix.org/conference/usenixsecurity23/presentation/torres)
+* Security 23 - [Mixed Signals: Analyzing {Ground-Truth} Data on the Users and Economics of a Bitcoin Mixing Service](https://www.usenix.org/conference/usenixsecurity23/presentation/miedema)
+* Security 23 - [Anatomy of a {High-Profile} Data Breach: Dissecting the Aftermath of a {Crypto-Wallet} Case](https://www.usenix.org/conference/usenixsecurity23/presentation/abramova)
 * Security 23 - [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+A+Large+Scale+Study+of+the+Ethereum+Arbitrage+Ecosystem&btnG=)
 * Security 23 - [The Blockchain Imitation Game](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+Blockchain+Imitation+Game&btnG=)
+* Security 22 - [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/system/files/sec22-kappos.pdf)
+* Security 22 - [Total Eclipse of the Heart – Disrupting the InterPlanetary File System](https://www.usenix.org/system/files/sec22-prunster.pdf)
 * Security 21 - [Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Frontrunner+Jones+and+the+Raiders+of+the+Dark+Forest%3A+An+Empirical+Study+of+Frontrunning+on+the+Ethereum+Blockchain&btnG=)
 * Security 21 - EOSAFE: Security Analysis of EOSIO Smart Contracts
+* Security 21 - [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf)
+* Security 21 - [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](http://prl.korea.ac.kr/~ssb920/papers/sec21.pdf)
+* Security 21 - [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.doc.ic.ac.uk/~livshits/papers/pdf/usenixsec21.pdf)
+* Security 21 - [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf)
+* Security 20 - [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf)
+* Security 20 - [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf)
+* Security 20 - [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf)
+* Security 20 - [BlockSci: Design and applications of a blockchain analysis platform](https://www.usenix.org/system/files/sec20-kalodner.pdf)
+* Security 19 - [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf)
+* Security 19 - [FastKitten: Practical Smart Contracts on Bitcoin](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master)
+* Security 19 - [Tracing Transactions Across Cryptocurrency Ledgers](https://www.usenix.org/system/files/sec19-yousaf_0.pdf)
+* Security 18 - [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf)
+* Security 18 - [teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf)
+* Security 18 - [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf)
+* Security 18 - [Enter the Hydra: Towards principled bug bounties and exploit-resistant smart contracts](https://eprint.iacr.org/2017/1090.pdf)
+* [SmartPool: Practical Decentralized Pooled Mining](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-luu.pdf)
 
 ##### NDSS 
 
