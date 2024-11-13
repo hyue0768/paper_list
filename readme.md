@@ -120,6 +120,8 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### NDSS 
 
 * NDSS 2025 - Dissecting Payload-based Transaction Phishing on Ethereum
+* NDSS 24 - [Separation is good: A faster order-fairness Byzantine consensus](https://www.ndss-symposium.org/wp-content/uploads/2024-693-paper.pdf)
+* NDSS 24 - [DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs](https://www.ndss-symposium.org/wp-content/uploads/2024-888-paper.pdf)
 * NDSS 24 - [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VETEOS%3A+Statically+Vetting+EOSIO+Contracts+for+the+%E2%80%9CGroundhog+Day%E2%80%9D+Vulnerabilities&btnG=)
 * NDSS 24 - [Content Censorship in the InterPlanetary File System](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Content+Censorship+in+the+InterPlanetary+File+System&btnG=)
 * NDSS 24 - [Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Front-running+Attack+in+Sharded+Blockchains+and+Fair+Cross-shard+Consensus&btnG=)
@@ -127,7 +129,19 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * NDSS 24 - [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abusing+the+Ethereum+Smart+Contract+Verification+Services+for+Fun+and+Profit&btnG=)
 * NDSS 24 - [From Interaction to Independence: zkSNARKs for Transparent and Non-Interactive Remote Attestation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=From+Interaction+to+Independence%3A+zkSNARKs+for+Transparent+and+Non-Interactive+Remote+Attestation&btnG=)
 * NDSS 24 - [Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Not+your+Type%21+Detecting+Storage+Collision+Vulnerabilities+in+Ethereum+Smart+Contracts&btnG=)
+* NDSS 23 - [Double and nothing: Understanding and detecting cryptocurrency giveaway scams](https://par.nsf.gov/servlets/purl/10428450)
+* NDSS 23 - [Partitioning Ethereum without Eclipsing It.](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf)
+* NDSS 23 - [LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols.](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/NDSS23.pdf)
+* NDSS 23 - [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://www.ndss-symposium.org/wp-content/uploads/2023-222-paper.pdf)
+* NDSS 23 - [Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s263_paper.pdf)
 * NDSS 21 - [As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=As+Strong+As+Its+Weakest+Link%3A+How+to+Break+Blockchain+DApps+at+RPC+Service&btnG=)
+* NDSS 20 - [SODA: A Generic Online Detection Framework for Smart Contracts.](https://www4.comp.polyu.edu.hk/~csxluo/SODA.pdf)
+* NDSS 19 - [YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-4_Das_paper.pdf)
+* NDSS 19 - [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](https://eprint.iacr.org/2019/857.pdf)
+* NDSS 19 - [SquirRL: Automating attack analysis on blockchain incentive mechanisms with deep reinforcement learning](https://arxiv.org/abs/1912.01798)
+* NDSS 19 - [Sereum: Protecting Existing Smart Contracts Against Re-Entrancy Attacks](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-3_Rodler_paper.pdf)
+* NDSS 18 - [Chainspace: A Sharded Smart Contracts Platform](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf)
+* NDSS 18 - [ZEUS: Analyzing Safety of Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-1_Kalra_paper.pdf)
 
 ##### WWW 
 
