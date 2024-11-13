@@ -117,11 +117,11 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * Security 18 - [teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf)
 * Security 18 - [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf)
 * Security 18 - [Enter the Hydra: Towards principled bug bounties and exploit-resistant smart contracts](https://eprint.iacr.org/2017/1090.pdf)
-* [SmartPool: Practical Decentralized Pooled Mining](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-luu.pdf)
+* Security 18 - [SmartPool: Practical Decentralized Pooled Mining](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-luu.pdf)
 
 ##### NDSS 
 
-* NDSS 2025 - Dissecting Payload-based Transaction Phishing on Ethereum
+* NDSS 25 - Dissecting Payload-based Transaction Phishing on Ethereum
 * NDSS 24 - [Separation is good: A faster order-fairness Byzantine consensus](https://www.ndss-symposium.org/wp-content/uploads/2024-693-paper.pdf)
 * NDSS 24 - [DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs](https://www.ndss-symposium.org/wp-content/uploads/2024-888-paper.pdf)
 * NDSS 24 - [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VETEOS%3A+Statically+Vetting+EOSIO+Contracts+for+the+%E2%80%9CGroundhog+Day%E2%80%9D+Vulnerabilities&btnG=)
@@ -191,7 +191,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * SIGMETRICS 24 - Miracle or Mirage? A Measurement Study of NFT Rug Pulls
 * SIGMETRICS 23 - Characterizing Cryptocurrency-themed Malicious Browser Extensions
 * SIGMETRICS 22 - Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange
-* SIGMETRICS 21 - [Tracking Counterfeit Cryptocurrency End-to-end
+* SIGMETRICS 21 - Tracking Counterfeit Cryptocurrency End-to-end
 * SIGMETRICS 21 - SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts
 * SIGMETRICS 20 - Understanding (Mis)Behavior on the EOSIO Blockchain
 
