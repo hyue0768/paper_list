@@ -147,6 +147,10 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 #### Network/System/Cross-discipline
 
+##### ICDCS
+
+* ICDCS 23 - [Detecting Flash Loan Based Attacks in Ethereum](https://ieeexplore.ieee.org/abstract/document/10272455/)
+
 ##### NSDI
 
 * NSDI 24 - [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
@@ -237,6 +241,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### ASE
 
+* ASE 25 - [HighGuard: Cross-Chain Business Logic Monitoring of Smart Contracts](https://www.researchgate.net/profile/Mojtaba-Eshghie/publication/385287338_HighGuard_Cross-Chain_Business_Logic_Monitoring_of_Smart_Contracts/links/6724db922326b47637bf78a4/HighGuard-Cross-Chain-Business-Logic-Monitoring-of-Smart-Contracts.pdf)
 * ASE 24 - Xscope: Hunting for Cross-Chain Bridge Attacks
 * ASE 24 - Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts
 * ASE 24 - AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis
@@ -244,12 +249,24 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ASE 24 - Detecting Malicious Accounts in Web3 through Transaction Graph
 * ASE 24 - WalletRadar: Towards Automating the Detection of Vulnerabilities in Browser-based Cryptocurrency Wallets
 
-##### FSE
+##### ESEC/FSE
 
 * FSE 24 - [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](https://dl.acm.org/doi/abs/10.1145/3660772)
 * FSE 24 - [Smartaxe: Detecting cross-chain vulnerabilities in bridge smart contracts via fine-grained static analysis](https://dl.acm.org/doi/abs/10.1145/3643738)
 * FSE 24 - [Efficiently detecting reentrancy vulnerabilities in complex smart contracts](https://dl.acm.org/doi/abs/10.1145/3643734)
 * FSE 24 - [Demystifying invariant effectiveness for securing smart contracts](https://dl.acm.org/doi/abs/10.1145/3660786)
+* ESEC 23 - [Understanding solidity event logging practices in the wild](https://dl.acm.org/doi/abs/10.1145/3611643.3616342)
+* ESEC 23 - [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3611643.3616270)
+* ESEC 23 - [Etherdiffer: Differential testing on rpc services of ethereum nodes](https://dl.acm.org/doi/abs/10.1145/3611643.3616251)
+* ESEC 23 - [Smartfix: Fixing vulnerable smart contracts by accelerating generate-and-verify repair using statistical models](https://dl.acm.org/doi/abs/10.1145/3611643.3616341)
+* ESEC 23 - [TransRacer: Function Dependence-Guided Transaction Race Detection for Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3611643.3616281)
+* ESEC 23 - [Deepinfer: Deep type inference from smart contract bytecode](https://dl.acm.org/doi/abs/10.1145/3611643.3616343)
+* ESEC 22 - [MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous graph embeddings](https://dl.acm.org/doi/abs/10.1145/3540250.3558927)
+* ESEC 22 - [An empirical study of blockchain system vulnerabilities: Modules, types, and patterns](https://dl.acm.org/doi/abs/10.1145/3540250.3549105)
+* ESEC 22 - [Declarative smart contracts](https://dl.acm.org/doi/abs/10.1145/3540250.3549121)
+* ESEC 22 - [Solsee: a source-level symbolic execution engine for solidity](https://dl.acm.org/doi/abs/10.1145/3540250.3558923)
+* ESEC 22
+* ESEC 22
 
 ##### ICSE 
 
@@ -267,6 +284,16 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ISSTA 24 - Following the “Thread”: Toward Finding Manipulatable Bottlenecks in Blockchain Clients
 * ISSTA 24 - LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts
 * ISSTA 24 - Towards Understanding the Bugs in Solidity Compiler
+* ISSTA 24 - [Identifying smart contract security issues in code snippets from stack overflow](https://dl.acm.org/doi/abs/10.1145/3650212.3680353)
+* ISSTA 23 - [Toward automated detecting unanticipated price feed in smart contract](https://dl.acm.org/doi/abs/10.1145/3597926.3598133)
+* ISSTA 23 - [Defitainter: Detecting price manipulation vulnerabilities in defi protocols](https://dl.acm.org/doi/abs/10.1145/3597926.3598124)
+* ISSTA 23 - [Definition and detection of defects in NFT smart contracts](https://dl.acm.org/doi/abs/10.1145/3597926.3598063)
+* ISSTA 23 - [Ityfuzz: Snapshot-based fuzzer for smart contract](https://dl.acm.org/doi/abs/10.1145/3597926.3598059)
+* ISSTA 23 - [Detecting state inconsistency bugs in dapps via on-chain transaction replay and fuzzing](https://dl.acm.org/doi/abs/10.1145/3597926.3598057)
+* ISSTA 23 - [Automated generation of security-centric descriptions for smart contract bytecode](https://dl.acm.org/doi/abs/10.1145/3597926.3598132)
+* ISSTA 23 - [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3597926.3598125)
+* ISSTA 23 - [isyn: Semi-automated smart contract synthesis from legal financial agreements](https://dl.acm.org/doi/abs/10.1145/3597926.3598091)
+* ISSTA 23 - [Smartstate: Detecting state-reverting vulnerabilities in smart contracts via fine-grained state-dependency analysis](https://dl.acm.org/doi/abs/10.1145/3597926.3598111)
 
 #### AI
 
