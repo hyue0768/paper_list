@@ -2,9 +2,9 @@ This file includes some DeFi and Blockchain paper in top-tier or famous conferen
 
 
 
-#### Conferences
+### Conferences
 
-###### CCS
+##### CCS
 
 * CCS 24 - [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups](https://arxiv.org/pdf/2405.00138)
 * CCS 24 - [Stealing Trust- Unraveling Blind Message Attacks in Web3 Authentication](https://arxiv.org/abs/2406.00523)
@@ -15,7 +15,7 @@ This file includes some DeFi and Blockchain paper in top-tier or famous conferen
 * CCS 23 - [Demystifying DeFi MEV Activities in Flashbots Bundle](https://dl.acm.org/doi/pdf/10.1145/3576915.3616590)
 * CCS 23 - TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum
 
-###### SP 
+##### SP 
 
 * SP 24 - [Non-Atomic Arbitrage in Decentralized Finance](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a224/1WPcYNItiZW)
 * SP 24 - [Routing Attacks on Cryptocurrency Mining Pools](https://ieeexplore.ieee.org/iel8/10646615/10646598/10646806.pdf)
@@ -23,13 +23,13 @@ This file includes some DeFi and Blockchain paper in top-tier or famous conferen
 * SP 24 - Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud
 * SP 22 - Quantifying Blockchain Extractable Value- How dark is the forest?
 
-###### Usenix Security 
+##### Usenix Security 
 
 * Security 23 - Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract
 * Security 23 - A Large Scale Study of the Ethereum Arbitrage Ecosystem
 * Security 21 - Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain
 
-###### NDSS 
+##### NDSS 
 
 * NDSS 24 - VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities
 * NDSS 24 - Content Censorship in the InterPlanetary File System
@@ -41,7 +41,7 @@ This file includes some DeFi and Blockchain paper in top-tier or famous conferen
 * NDSS 2 - 
 * NDSS 21 - As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service
 
-###### WWW 
+##### WWW 
 
 * WWW 24 - [Blockchain Censorship](https://dl.acm.org/doi/pdf/10.1145/3589334.3645431)
 * WWW 24 - Investigations of Top-Level Domain Name Collisions in Blockchain Naming Services
@@ -52,38 +52,38 @@ This file includes some DeFi and Blockchain paper in top-tier or famous conferen
 * WWW 22 - Cyclic Arbitrage in Decentralized Exchanges
 * WWW 21 - Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges
 
-###### INFOCOM
+##### INFOCOM
 
 * INFOCOM 24 - ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum
 
-###### Sigmetrics 
+##### Sigmetrics 
 
-###### IMC 
+##### IMC 
 
 * IMC 23 - Ethereum's Proposer-Builder Separation- Promises and Realities
 * IMC 22 - A Flash(bot) in the Pan: Measuring Maximal Extractable Value in Private Pools
 
-###### KDD
+##### KDD
 
 * KDD 24 - Money Never Sleeps: Maximizing Liquidity Mining Yields in Decentralized Finance
 
-###### CIKM
+##### CIKM
 
 * CIKM 24 - Effective Illicit Account Detection on Large Cryptocurrency MultiGraphs
 
-###### AFT
+##### AFT
 
 * AFT 24 - Who Wins Ethereum Block Building Auctions and Why?
 * AFT 22 - Understanding Flash-Loan-based Wash Trading
 
-###### CHI
+##### CHI
 
 * CHI 24 - [Stranger Danger? Investor Behavior and Incentives on Cryptocurrency Copy-Trading Platforms](https://dl.acm.org/doi/pdf/10.1145/3613904.3642715)
 * CHI 24 - [“Don’t Put All Your Eggs In One Basket”: How Cryptocurrency Users Choose and Secure Their Wallets](https://dl.acm.org/doi/pdf/10.1145/3613904.3642534)
 * CHI 23 - Altruistic and Profit-oriented- Making Sense of Roles in Web3 Community from Airdrop Perspective
 * CHI 22 - Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem
 
-###### ASE
+##### ASE
 
 * ASE 24 - Xscope: Hunting for Cross-Chain Bridge Attacks
 * ASE 24 - Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts
@@ -91,13 +91,13 @@ This file includes some DeFi and Blockchain paper in top-tier or famous conferen
 * ASE 24 - Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models
 * ASE 24 - Detecting Malicious Accounts in Web3 through Transaction Graph
 
-###### ICSE 
+##### ICSE 
 
 * ICSE 24 - [When Contracts Meets Crypto: Exploring Developers’ Struggles with Ethereum Cryptographic APIs](https://dl.acm.org/doi/pdf/10.1145/3597503.3639131)
 * ICSE 24 - Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers
 * ICSE 24 - GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis
 
-###### ISSTA
+##### ISSTA
 
 * ISSTA 24 - DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications
 * ISSTA 24 - DAppFL: Just-in-Time Fault Localization for Decentralized Applications in Web3
@@ -107,20 +107,20 @@ This file includes some DeFi and Blockchain paper in top-tier or famous conferen
 * ISSTA 24 - LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts
 * ISSTA 24 - Towards Understanding the Bugs in Solidity Compiler
 
-###### NSDI
+##### NSDI
 
 * [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
 
 
 
-###### EMNLP
+##### EMNLP
 
 EMNLP 24 - CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading
 
 
 
-#### Journals
+### Journals
 
-###### TIFS
+##### TIFS
 
 * Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum
