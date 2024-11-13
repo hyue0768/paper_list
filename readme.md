@@ -30,14 +30,17 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### Usenix Security 
 
+* Security 24 - All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts
 * Security 24 - [Speculative {Denial-of-Service} Attacks In Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Speculative+%7BDenial-of-Service%7D+Attacks+In+Ethereum&btnG=)
 * Security 23 - [Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Your+Exploit+is+Mine%3A+Instantly+Synthesizing+Counterattack+Smart+Contract&btnG=)
 * Security 23 - [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+A+Large+Scale+Study+of+the+Ethereum+Arbitrage+Ecosystem&btnG=)
 * Security 23 - [The Blockchain Imitation Game](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+Blockchain+Imitation+Game&btnG=)
 * Security 21 - [Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Frontrunner+Jones+and+the+Raiders+of+the+Dark+Forest%3A+An+Empirical+Study+of+Frontrunning+on+the+Ethereum+Blockchain&btnG=)
+* Security 21 - EOSAFE: Security Analysis of EOSIO Smart Contracts
 
 ##### NDSS 
 
+* NDSS 2025 - Dissecting Payload-based Transaction Phishing on Ethereum
 * NDSS 24 - [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VETEOS%3A+Statically+Vetting+EOSIO+Contracts+for+the+%E2%80%9CGroundhog+Day%E2%80%9D+Vulnerabilities&btnG=)
 * NDSS 24 - [Content Censorship in the InterPlanetary File System](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Content+Censorship+in+the+InterPlanetary+File+System&btnG=)
 * NDSS 24 - [Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Front-running+Attack+in+Sharded+Blockchains+and+Fair+Cross-shard+Consensus&btnG=)
@@ -66,18 +69,30 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * WWW 22 - [Cyclic Arbitrage in Decentralized Exchanges](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+Cyclic+Arbitrage+in+Decentralized+Exchanges&btnG=)
 * WWW 21 - [Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+and+Quantifying+Wash+Trading+on+Decentralized+Cryptocurrency+Exchanges&btnG=)
 * WWW 21 - [Temporal analysis of the entire ethereum blockchain network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+analysis+of+the+entire+ethereum+blockchain+network&btnG=)
+* WWW 21 - [Towards Understanding and Demystifying Bitcoin Mixing Services](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+Understanding+and+Demystifying+Bitcoin+Mixing+Services&btnG=)
 
 ##### INFOCOM
 
 * INFOCOM 24 - [ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ConFuzz%3A+Towards+Large+Scale+Fuzz+Testing+of+Smart+Contracts+in+Ethereum&btnG=)
 
-##### Sigmetrics 
+##### SIGMETRICS
+
+* SIGMETRICS 2025 - Towards Understanding and Analyzing Instant Cryptocurrency Exchanges 
+* SIGMETRICS 2025 - Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks
+* SIGMETRICS 2024 - Miracle or Mirage? A Measurement Study of NFT Rug Pulls
+* SIGMETRICS 2023 - Characterizing Cryptocurrency-themed Malicious Browser Extensions
+* SIGMETRICS 2022 - Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange
+* SIGMETRICS 2021 - [Tracking Counterfeit Cryptocurrency End-to-end
+* SIGMETRICS 2021 - SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts
+* SIGMETRICS 2020 - Understanding (Mis)Behavior on the EOSIO Blockchain
+* SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts
 
 ##### IMC 
 
 * IMC 23 - [Ethereum's Proposer-Builder Separation- Promises and Realities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Ethereum%27s+Proposer-Builder+Separation-+Promises+and+Realities&btnG=)
 * IMC 22 - [A Flash(bot) in the Pan: Measuring Maximal Extractable Value in Private Pools](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Flash%28bot%29+in+the+Pan%3A+Measuring+Maximal+Extractable+Value+in+Private+Pools&btnG=)
 * IMC 22 - [An Empirical Study of DeFi Liquidations: Incentives, Risks, and Instabilities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=An+Empirical+Study+of+DeFi+Liquidations%3A+Incentives%2C+Risks%2C+and+Instabilities&btnG=)
+* IMC 22 - Challenges in Decentralized Name Management: The Case of ENS
 
 ##### KDD
 
@@ -99,6 +114,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * FC 23 - [Mitigating decentralized finance liquidations with reversible call options](https://link.springer.com/chapter/10.1007/978-3-031-47754-6_20)
 * FC 22 - [Speculative multipliers on defi: Quantifying on-chain leverage risks](https://link.springer.com/chapter/10.1007/978-3-031-18283-9_3)
 * FC 21 - [Attacking the DeFi ecosystem with flash loans for fun and profit](https://link.springer.com/chapter/10.1007/978-3-662-64322-8_1?trk=public_post_comment-text)
+* FC 20 - Characterizing Code Clones in the Ethereum Smart Contract Ecosystem
 
 ##### CHI
 
@@ -114,6 +130,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ASE 24 - AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis
 * ASE 24 - Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models
 * ASE 24 - Detecting Malicious Accounts in Web3 through Transaction Graph
+* ASE 24 - WalletRadar: Towards Automating the Detection of Vulnerabilities in Browser-based Cryptocurrency Wallets
 
 ##### ICSE 
 
@@ -136,7 +153,9 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 * NSDI 24 - [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
 
+##### ATC
 
+* ATC 2024 - SlimArchive: A Lightweight Architecture for Ethereum Archive Nodes
 
 ##### EMNLP
 
@@ -146,6 +165,47 @@ EMNLP 24 - CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocu
 
 ### Journals
 
+##### TDSC
+
+* 2024 - DeFiRanger: Detecting DeFi Price Manipulation Attacks
+* 2024 - MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain
+
+##### TSE
+
+* 2024 - CRPWarner: Warning the Risk of Contract-related Rug Pull in DeFi Smart Contracts.
+* 2024 - Unearthing Gas-Wasting Code Smells in Smart Contracts with Large Language Models
+
 ##### TIFS
 
-* Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum
+* 2024 - Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum
+* 2024 - Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs with Blockchain Data.
+* 2023 - Towards Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists.
+* 2023 - TRacer: Scalable Graph-based Transaction Tracing for Account-based Blockchain Trading Systems.
+* 2022 - Behavior-aware account de-anonymization on Ethereum interaction graph
+
+##### TNSE
+
+* 2022 - A-GNN: Filter and Augment Graph Neural Networks for Account Classification in Ethereum
+* 2023 - Demystifying Random Number in Ethereum Smart Contract: Taxonomy, Vulnerability Identification, and Attack Detection
+
+##### TCSS
+
+* 2022 - From Decentralization to Oligopoly: A Data-Driven Analysis of Decentralization Evolution and Voting Behaviors on EOSIO
+* 2022 - Hide and Seek: An Adversarial Hiding Approach Against Phishing Detection on Ethereum
+* 2022 - Evolution of Ethereum Transaction Relationships: Toward Understanding Global Driving Factors From Microscopic Patterns
+
+##### TSMC
+
+* 2023 - Who is Who on Ethereum? Account Labeling Using Heterophilic Graph Convolutional Network
+* 2020 - Who are the phishers? Phishing scam detection on ethereum via network embedding
+
+##### TCSII
+
+* 2022 - Phishing Detection on Ethereum via Attributed Ego-graph Embedding
+* 2022 - Ethereum Account Classification based on Graph Convolutional Network
+* 2020 - Modeling and understanding ethereum transaction records via a complex network approach
+
+##### TSMC
+
+* 2022 - Detecting mixing services via mining Bitcoin transaction network with hybrid motifs
+
