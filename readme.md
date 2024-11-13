@@ -135,7 +135,7 @@ This file includes some DeFi and Blockchain paper in top-tier or famous conferen
 
 ##### NSDI
 
-* [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
+* NSDI 24 - [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
 
 
 
