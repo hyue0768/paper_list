@@ -4,6 +4,8 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ### Conferences
 
+#### Security/Crypto
+
 ##### CCS
 
 * CCS 24 - TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning
@@ -143,6 +145,16 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * NDSS 18 - [Chainspace: A Sharded Smart Contracts Platform](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf)
 * NDSS 18 - [ZEUS: Analyzing Safety of Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-1_Kalra_paper.pdf)
 
+#### Network/System/Cross-discipline
+
+##### NSDI
+
+* NSDI 24 - [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
+
+##### ATC
+
+* ATC 2024 - SlimArchive: A Lightweight Architecture for Ethereum Archive Nodes
+
 ##### WWW 
 
 * WWW 24 - [Blockchain Censorship](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blockchain+Censorship&btnG=)
@@ -170,22 +182,25 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### SIGMETRICS
 
-* SIGMETRICS 2025 - Towards Understanding and Analyzing Instant Cryptocurrency Exchanges 
-* SIGMETRICS 2025 - Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks
-* SIGMETRICS 2024 - Miracle or Mirage? A Measurement Study of NFT Rug Pulls
-* SIGMETRICS 2023 - Characterizing Cryptocurrency-themed Malicious Browser Extensions
-* SIGMETRICS 2022 - Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange
-* SIGMETRICS 2021 - [Tracking Counterfeit Cryptocurrency End-to-end
-* SIGMETRICS 2021 - SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts
-* SIGMETRICS 2020 - Understanding (Mis)Behavior on the EOSIO Blockchain
-* SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts
+* SIGMETRICS 25 - Towards Understanding and Analyzing Instant Cryptocurrency Exchanges 
+* SIGMETRICS 25 - Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks
+* SIGMETRICS 24 - Miracle or Mirage? A Measurement Study of NFT Rug Pulls
+* SIGMETRICS 23 - Characterizing Cryptocurrency-themed Malicious Browser Extensions
+* SIGMETRICS 22 - Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange
+* SIGMETRICS 21 - [Tracking Counterfeit Cryptocurrency End-to-end
+* SIGMETRICS 21 - SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts
+* SIGMETRICS 20 - Understanding (Mis)Behavior on the EOSIO Blockchain
 
 ##### IMC 
 
 * IMC 23 - [Ethereum's Proposer-Builder Separation- Promises and Realities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Ethereum%27s+Proposer-Builder+Separation-+Promises+and+Realities&btnG=)
+* IMC 23 - [The Cloud Strikes Back: Investigating the Decentralization of IPFS](https://dl.acm.org/doi/abs/10.1145/3618257.3624797)
 * IMC 22 - [A Flash(bot) in the Pan: Measuring Maximal Extractable Value in Private Pools](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Flash%28bot%29+in+the+Pan%3A+Measuring+Maximal+Extractable+Value+in+Private+Pools&btnG=)
+* IMC 22 - [Challenges in decentralized name management: the case of ENS](https://dl.acm.org/doi/abs/10.1145/3517745.3561469)
 * IMC 22 - [An Empirical Study of DeFi Liquidations: Incentives, Risks, and Instabilities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=An+Empirical+Study+of+DeFi+Liquidations%3A+Incentives%2C+Risks%2C+and+Instabilities&btnG=)
-* IMC 22 - Challenges in Decentralized Name Management: The Case of ENS
+* IMC 21 - [TopoShot: uncovering Ethereum's network topology leveraging replacement transactions](https://dl.acm.org/doi/abs/10.1145/3487552.3487814)
+* IMC 18 - [Measuring ethereum network peers](https://dl.acm.org/doi/pdf/10.1145/3278532.3278542)
+* IMC 18 - [Analyzing ethereum's contract topology](https://dl.acm.org/doi/pdf/10.1145/3278532.3278575)
 
 ##### KDD
 
@@ -209,12 +224,16 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * FC 21 - [Attacking the DeFi ecosystem with flash loans for fun and profit](https://link.springer.com/chapter/10.1007/978-3-662-64322-8_1?trk=public_post_comment-text)
 * FC 20 - Characterizing Code Clones in the Ethereum Smart Contract Ecosystem
 
+#### HCI
+
 ##### CHI
 
 * CHI 24 - [Stranger Danger? Investor Behavior and Incentives on Cryptocurrency Copy-Trading Platforms](https://dl.acm.org/doi/pdf/10.1145/3613904.3642715)
 * CHI 24 - [“Don’t Put All Your Eggs In One Basket”: How Cryptocurrency Users Choose and Secure Their Wallets](https://dl.acm.org/doi/pdf/10.1145/3613904.3642534)
 * CHI 23 - [Altruistic and Profit-oriented- Making Sense of Roles in Web3 Community from Airdrop Perspective](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Altruistic+and+Profit-oriented-+Making+Sense+of+Roles+in+Web3+Community+from+Airdrop+Perspective&btnG=)
 * CHI 22 - Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem
+
+#### Software Engineer
 
 ##### ASE
 
@@ -224,6 +243,13 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ASE 24 - Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models
 * ASE 24 - Detecting Malicious Accounts in Web3 through Transaction Graph
 * ASE 24 - WalletRadar: Towards Automating the Detection of Vulnerabilities in Browser-based Cryptocurrency Wallets
+
+##### FSE
+
+* FSE 24 - [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](https://dl.acm.org/doi/abs/10.1145/3660772)
+* FSE 24 - [Smartaxe: Detecting cross-chain vulnerabilities in bridge smart contracts via fine-grained static analysis](https://dl.acm.org/doi/abs/10.1145/3643738)
+* FSE 24 - [Efficiently detecting reentrancy vulnerabilities in complex smart contracts](https://dl.acm.org/doi/abs/10.1145/3643734)
+* FSE 24 - [Demystifying invariant effectiveness for securing smart contracts](https://dl.acm.org/doi/abs/10.1145/3660786)
 
 ##### ICSE 
 
@@ -242,13 +268,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ISSTA 24 - LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts
 * ISSTA 24 - Towards Understanding the Bugs in Solidity Compiler
 
-##### NSDI
-
-* NSDI 24 - [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
-
-##### ATC
-
-* ATC 2024 - SlimArchive: A Lightweight Architecture for Ethereum Archive Nodes
+#### AI
 
 ##### EMNLP
 
