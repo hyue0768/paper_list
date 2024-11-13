@@ -45,7 +45,6 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * NDSS 24 - Abusing the Ethereum Smart Contract Verification Services for Fun and Profit
 * NDSS 24 - From Interaction to Independence: zkSNARKs for Transparent and Non-Interactive Remote Attestation
 * NDSS 24 - Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts
-* NDSS 2 - 
 * NDSS 21 - As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service
 
 ##### WWW 
