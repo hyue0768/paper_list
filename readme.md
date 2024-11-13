@@ -1,4 +1,4 @@
-This file includes some DeFi and Blockchain paper in top-tier or famous conferences/journals. Note that the list below is limited, any supplement is welcome and appreciated.
+This file includes some DeFi and Blockchain papers from top-tier or well-known conferences and journals. Note that the list below is limited; any additions are welcome and appreciated.
 
 
 
