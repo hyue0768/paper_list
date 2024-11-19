@@ -12,7 +12,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * CCS 24 - Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models
 * CCS 24 - Lutris: A Blockchain Combining Broadcast and Consensus
 * CCS 24 - Blockchain Bribing Attacks and the Efficacy of Counterincentives
-* CCS 24 - zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials
+* CCS 24 - [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=zkLLM%3A+Zero+Knowledge+Proofs+for+Large+Language+Models&btnG=)
 * CCS 24 - [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Rolling+in+the+Shadows%3A+Analyzing+the+Extraction+of+MEV+Across+Layer-2+Rollups&btnG=)
 * CCS 24 - [Stealing Trust- Unraveling Blind Message Attacks in Web3 Authentication](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stealing+Trust-+Unraveling+Blind+Message+Attacks+in+Web3+Authentication&btnG=)
 * CCS 24 - [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=fAmulet%3A+Finding+Finalization+Failure+Bugs+in+Polygon+zkRollup&btnG=)
@@ -49,6 +49,11 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### SP
 
+* SP 25 - [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4)
+* SP 25 - [Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a055/21B7R1Oem1q)
+* SP 25 - [Volatile and Persistent Memory for zkSNARKs via Algebraic Interactive Proofs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a054/21B7R0YQXtK)
+* SP 25 - [P2C2T: Preserving the Privacy of Cross-Chain Transfer](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a051/21B7QYE5x8Q)
+* SP 25 - [Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a042/21B7QvjJ9Ty)
 * SP 25 - [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://arxiv.org/pdf/2407.03543)
 * SP 24 - [Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a220/1WPcYKIy2NG)
 * SP 24 - [Non-Atomic Arbitrage in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Non-Atomic+Arbitrage+in+Decentralized+Finance&btnG=)
