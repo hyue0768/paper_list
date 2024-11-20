@@ -195,6 +195,10 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * WWW 21 - [Temporal analysis of the entire ethereum blockchain network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+analysis+of+the+entire+ethereum+blockchain+network&btnG=)
 * WWW 21 - [Towards Understanding and Demystifying Bitcoin Mixing Services](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+Understanding+and+Demystifying+Bitcoin+Mixing+Services&btnG=)
 
+##### WINE
+
+* WINE 23 - [Routing MEV in Constant Function Market Makers]()
+
 ##### INFOCOM
 
 * INFOCOM 24 - [ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ConFuzz%3A+Towards+Large+Scale+Fuzz+Testing+of+Smart+Contracts+in+Ethereum&btnG=)
@@ -223,7 +227,10 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### KDD
 
+* KDD 24 - [BitLINK: Temporal Linkage of Address Clusters in Bitcoin Blockchain]().
 * KDD 24 - [Money Never Sleeps: Maximizing Liquidity Mining Yields in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Money+Never+Sleeps%3A+Maximizing+Liquidity+Mining+Yields+in+Decentralized+Finance&btnG=)
+* KDD 23 - [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics](https://dl.acm.org/doi/pdf/10.1145/3580305.3599351).
+* KDD 23 - [Diga: Guided Diffusion Model for Graph Recovery in Anti-Money Laundering](https://dl.acm.org/doi/pdf/10.1145/3580305.3599806).
 
 ##### CIKM
 
@@ -312,6 +319,11 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 #### Database
 
+##### ICDE
+
+* ICDE 24 - [MuFuzz: Sequence-Aware Mutation and Seed Mask Guidance for Blockchain Smart Contract Fuzzing]()
+* ICDE 23 - [Scaling Blockchain Consensus via a Robust Shared Mempool]()
+
 ##### VLDB
 
 * VLDB 24 - [A Comprehensive Outlook for Analyzing and Enhancing the Performance of Blockchain Platforms]()
@@ -333,7 +345,9 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * SIGMOD 23 - [When Private Blockchain Meets Deterministic Database]().
 * SIGMOD 21 - [Why Do My Blockchain Transactions Fail? A Study of Hyperledger Fabric]()
 
+##### DSAFAA
 
+* DASFAA 24 - [DS-Ponzi: Anti-jamming Detection of Ponzi Scheme on Ethereum Utilizing Dynamic-Static Features of Smart Contract Codes]()
 
 #### AI
 
@@ -348,6 +362,10 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 
 ### Journals
+
+##### TKDE
+
+* TKDE 24 -  [Unravelling Token Ecosystem of EOSIO Blockchain](https://arxiv.org/abs/2202.11201)
 
 ##### TDSC
 
