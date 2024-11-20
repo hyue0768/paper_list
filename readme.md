@@ -168,6 +168,12 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ICDCS 23 - A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain
 * ICDCS 23 - Towards Decentralized Adaptive Control of Cryptocurrency Liquidity via Auction
 
+##### RAID
+
+* RAID 24 - [Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems](https://dl.acm.org/doi/abs/10.1145/3678890.3678894)
+* RAID 24 - [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf)
+* RAID 19 - [Towards a first step to understand the cryptocurrency stealing attack on ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+a+first+step+to+understand+the+cryptocurrency+stealing+attack+on+ethereum&btnG=)
+
 ##### NSDI
 
 * NSDI 24 - [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
