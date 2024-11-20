@@ -165,6 +165,8 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### ICDCS
 
 * ICDCS 23 - [Detecting Flash Loan Based Attacks in Ethereum](https://ieeexplore.ieee.org/abstract/document/10272455/)
+* ICDCS 23 - A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain
+* ICDCS 23 - Towards Decentralized Adaptive Control of Cryptocurrency Liquidity via Auction
 
 ##### NSDI
 
