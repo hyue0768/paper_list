@@ -151,6 +151,15 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * NDSS 18 - [Chainspace: A Sharded Smart Contracts Platform](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf)
 * NDSS 18 - [ZEUS: Analyzing Safety of Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-1_Kalra_paper.pdf)
 
+##### Asia CCS
+
+* Asia CCS 22 - [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390)
+
+##### Euro SP
+
+* Euro SP 23 - [EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation]().
+* 
+
 #### Network/System/Cross-discipline
 
 ##### ICDCS
@@ -242,6 +251,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * CHI 24 - [“Don’t Put All Your Eggs In One Basket”: How Cryptocurrency Users Choose and Secure Their Wallets](https://dl.acm.org/doi/pdf/10.1145/3613904.3642534)
 * CHI 23 - [Altruistic and Profit-oriented- Making Sense of Roles in Web3 Community from Airdrop Perspective](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Altruistic+and+Profit-oriented-+Making+Sense+of+Roles+in+Web3+Community+from+Airdrop+Perspective&btnG=)
 * CHI 22 - [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Impact+and+User+Perception+of+Sandwich+Attacks+in+the+DeFi+Ecosystem&btnG=)
+* CHI 21 - [Effect of the Gas Price Surges on User Activity in the DAOs of the Ethereum Blockchain](https://dl.acm.org/doi/pdf/10.1145/3411763.3451755)
 
 #### Software Engineer
 
@@ -299,11 +309,40 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ISSTA 23 - [isyn: Semi-automated smart contract synthesis from legal financial agreements](https://dl.acm.org/doi/abs/10.1145/3597926.3598091)
 * ISSTA 23 - [Smartstate: Detecting state-reverting vulnerabilities in smart contracts via fine-grained state-dependency analysis](https://dl.acm.org/doi/abs/10.1145/3597926.3598111)
 
+#### Database
+
+##### VLDB
+
+* VLDB 24 - [A Comprehensive Outlook for Analyzing and Enhancing the Performance of Blockchain Platforms]()
+* VLDB 24 - [Practical Declarative Smart Contracts Optimization]()
+* VLDB 24 - [CMixing: An Efficient Coin Mixing Platform to Enhance Anonymity in Cryptocurrency Transactions]()
+* VLDB 24 - [FlexChain: An Elastic Disaggregated Blockchain]()
+* VLDB 24 - [L2chain: Towards High-performance, Confidential and Secure Layer-2 Blockchain Solution for Decentralized Applications]()
+* VLDB 24 - [Spectrum: Speedy and Strictly-Deterministic Smart Contract Transactions for Blockchain Ledgers]()
+* VLDB 23 - [ChainDash: An Ad-Hoc Blockchain Data Analytics System](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585)
+* VLDB 23 - [Auto-Tuning with Reinforcement Learning for Permissioned Blockchain Systems](https://www.vldb.org/pvldb/vol16/p1000-li.pdf)
+* VLDB 22 - [Hybrid Blockchain Database Systems: Design and Performance](https://dl.acm.org/doi/pdf/10.14778/3510397.3510406)
+
+##### SIGMOD
+
+* SIGMOD 24 - 
+* SIGMOD 24 - 
+* SIGMOD 23 - [LETUS: A Log-Structured Efficient Trusted Universal BlockChain Storage]()
+* SIGMOD 23 - [ChainKV: A Semantics-Aware Key-Value Store for Ethereum System]()
+* SIGMOD 23 - [When Private Blockchain Meets Deterministic Database]().
+* SIGMOD 21 - [Why Do My Blockchain Transactions Fail? A Study of Hyperledger Fabric]()
+
+
+
 #### AI
+
+##### IJCAI
+
+* IJCAI 20 - [Smart Contract Vulnerability Detection Using Graph Neural Networks]()
 
 ##### EMNLP
 
-EMNLP 24 - [CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CryptoTrade%3A+A+Reflective+LLM-based+Agent+to+Guide+Zero-shot+Cryptocurrency+Trading&btnG=)
+* EMNLP 24 - [CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CryptoTrade%3A+A+Reflective+LLM-based+Agent+to+Guide+Zero-shot+Cryptocurrency+Trading&btnG=)
 
 
 
