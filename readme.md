@@ -250,6 +250,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * CHI 24 - [Stranger Danger? Investor Behavior and Incentives on Cryptocurrency Copy-Trading Platforms](https://dl.acm.org/doi/pdf/10.1145/3613904.3642715)
 * CHI 24 - [“Don’t Put All Your Eggs In One Basket”: How Cryptocurrency Users Choose and Secure Their Wallets](https://dl.acm.org/doi/pdf/10.1145/3613904.3642534)
 * CHI 23 - [Altruistic and Profit-oriented- Making Sense of Roles in Web3 Community from Airdrop Perspective](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Altruistic+and+Profit-oriented-+Making+Sense+of+Roles+in+Web3+Community+from+Airdrop+Perspective&btnG=)
+* CHI 23 - [Code Will Tell: Visual Identification of Ponzi Schemes on Ethereum](https://dl.acm.org/doi/pdf/10.1145/3544549.3585861)
 * CHI 22 - [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Impact+and+User+Perception+of+Sandwich+Attacks+in+the+DeFi+Ecosystem&btnG=)
 * CHI 21 - [Effect of the Gas Price Surges on User Activity in the DAOs of the Ethereum Blockchain](https://dl.acm.org/doi/pdf/10.1145/3411763.3451755)
 
