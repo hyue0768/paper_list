@@ -304,6 +304,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ICSE 24 - [Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Are+We+There+Yet%3F+Unraveling+the+State-of-the-Art+Smart+Contract+Fuzzers&btnG=)
 * ICSE 24 - [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=GPTScan%3A+Detecting+Logic+Vulnerabilities+in+Smart+Contracts+by+Combining+GPT+with+Program+Analysis&btnG=)
 * ICSE 24 - [Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?](https://dl.acm.org/doi/abs/10.1145/3597503.3623302)
+* ICSE 24 - [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://doi.org/10.1145/3597503.3623335)
 
 ##### ISSTA
 
@@ -379,18 +380,26 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 * 2024 - [MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MFGSCOPE%3A+A+Lightweight+Framework+for+Efficient+Graph-based+Analysis+on+Blockchain&btnG=)
 * 2023 - [DeFiRanger: Detecting DeFi Price Manipulation Attacks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DeFiRanger%3A+Detecting+DeFi+Price+Manipulation+Attacks&btnG=)
+* 2023 - [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid](https://ieeexplore.ieee.org/document/9864250)
 
 ##### TSE
 
 * 2024 - [CRPWarner: Warning the Risk of Contract-related Rug Pull in DeFi Smart Contracts.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CRPWarner%3A+Warning+the+Risk+of+Contract-related+Rug+Pull+in+DeFi+Smart+Contracts.&btnG=)
 * 2024 - [Unearthing Gas-Wasting Code Smells in Smart Contracts with Large Language Models](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unearthing+Gas-Wasting+Code+Smells+in+Smart+Contracts+with+Large+Language+Models&btnG=)
+* 2023 - [Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation](https://doi.org/10.1109/TSE.2023.3270117)
+* 2021 - [DefectChecker: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://doi.org/10.1109/TSE.2021.3054928)
 
 ##### TIFS
 
+* 2024 - [2DynEthNet: A Two-Dimensional Streaming Framework for Ethereum Phishing Scam Detection](https://doi.org/10.1109/TIFS.2024.3484296)
 * 2024 - [Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Who+Stole+My+NFT%3F+Investigating+Web3+NFT+Phishing+Scams+on+Ethereum&btnG=)
 * 2024 - [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs with Blockchain Data.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fishing+for+Fraudsters%3A+Uncovering+Ethereum+Phishing+Gangs+with+Blockchain+Data.&btnG=)
+* 2024 - [MLaD²: A Semi-Supervised Money Laundering Detection Framework Based on Decoupling Training](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10477569)
+* 2024 - [CryptojackingTrap: An Evasion Resilient Nature-Inspired Algorithm to Detect Cryptojacking Malware](https://ieeexplore.ieee.org/document/10400529)
+* 2024 - [Unified Feature Engineering for Detection of Malicious Entities in Blockchain Networks](https://ieeexplore.ieee.org/document/10552782)
 * 2023 - [Towards Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+Understanding+Asset+Flows+in+Crypto+Money+Laundering+Through+the+Lenses+of+Ethereum+Heists.&btnG=)
 * 2023 - [TRacer: Scalable Graph-based Transaction Tracing for Account-based Blockchain Trading Systems.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TRacer%3A+Scalable+Graph-based+Transaction+Tracing+for+Account-based+Blockchain+Trading+Systems.&btnG=)
+* 2023 - [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts](https://ieeexplore.ieee.org/document/10017137)
 * 2022 - [Behavior-aware account de-anonymization on Ethereum interaction graph](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Behavior-aware+account+de-anonymization+on+Ethereum+interaction+graph&btnG=)
 
 ##### TNSE
