@@ -128,6 +128,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### NDSS 
 
 * NDSS 25 - [Dissecting Payload-based Transaction Phishing on Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dissecting+Payload-based+Transaction+Phishing+on+Ethereum&btnG=)
+* NDSS 25 - [Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NXOKQ8AAAAJ&sortby=pubdate&citation_for_view=2NXOKQ8AAAAJ:ULOm3_A8WrAC)
 * NDSS 24 - [Separation is good: A faster order-fairness Byzantine consensus](https://www.ndss-symposium.org/wp-content/uploads/2024-693-paper.pdf)
 * NDSS 24 - [DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs](https://www.ndss-symposium.org/wp-content/uploads/2024-888-paper.pdf)
 * NDSS 24 - [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VETEOS%3A+Statically+Vetting+EOSIO+Contracts+for+the+%E2%80%9CGroundhog+Day%E2%80%9D+Vulnerabilities&btnG=)
