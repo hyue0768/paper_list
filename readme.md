@@ -280,6 +280,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ASE 24 - [Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models](https://arxiv.org/pdf/2411.07498)
 * ASE 24 - [Detecting Malicious Accounts in Web3 through Transaction Graph](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+Malicious+Accounts+in+Web3+through+Transaction+Graph&btnG=)
 * ASE 24 - [WalletRadar: Towards Automating the Detection of Vulnerabilities in Browser-based Cryptocurrency Wallets](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=WalletRadar%3A+Towards+Automating+the+Detection+of+Vulnerabilities+in+Browser-based+Cryptocurrency+Wallets&btnG=)
+* ASE 24 - [Angels or demons: investigating and detecting decentralized financial traps on ethereum smart contracts](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nkjaN4QAAAAJ&sortby=pubdate&citation_for_view=nkjaN4QAAAAJ:lmc2jWPfTJgC)
 * ASE 22 - [Xscope: Hunting for Cross-Chain Bridge Attacks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Xscope%3A+Hunting+for+Cross-Chain+Bridge+Attacks&btnG=)
 
 ##### ESEC/FSE
@@ -301,11 +302,16 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### ICSE 
 
+* ICSE 25 - Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects
+* ICSE 25 - Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration
+* ICSE 25 - Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts
 * ICSE 24 - [When Contracts Meets Crypto: Exploring Developers’ Struggles with Ethereum Cryptographic APIs](https://dl.acm.org/doi/pdf/10.1145/3597503.3639131)
 * ICSE 24 - [Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Are+We+There+Yet%3F+Unraveling+the+State-of-the-Art+Smart+Contract+Fuzzers&btnG=)
 * ICSE 24 - [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=GPTScan%3A+Detecting+Logic+Vulnerabilities+in+Smart+Contracts+by+Combining+GPT+with+Program+Analysis&btnG=)
 * ICSE 24 - [Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?](https://dl.acm.org/doi/abs/10.1145/3597503.3623302)
 * ICSE 24 - [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://doi.org/10.1145/3597503.3623335)
+* ICSE 24 - [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nkjaN4QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=nkjaN4QAAAAJ:hMsQuOkrut0C)
+* ICSE 23 - [DAppHunter: Identifying Inconsistent Behaviors of Blockchain-based Decentralized Applications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nkjaN4QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=nkjaN4QAAAAJ:tkaPQYYpVKoC)
 
 ##### ISSTA
 
@@ -380,6 +386,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### TDSC
 
 * 2024 - [MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MFGSCOPE%3A+A+Lightweight+Framework+for+Efficient+Graph-based+Analysis+on+Blockchain&btnG=)
+* 2024 - [*RiskProp*: Account Risk Rating on Ethereum via De-anonymous Score and Network Propagation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nkjaN4QAAAAJ&sortby=pubdate&citation_for_view=nkjaN4QAAAAJ:LI9QrySNdTsC)
 * 2023 - [DeFiRanger: Detecting DeFi Price Manipulation Attacks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DeFiRanger%3A+Detecting+DeFi+Price+Manipulation+Attacks&btnG=)
 * 2023 - [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid](https://ieeexplore.ieee.org/document/9864250)
 
@@ -388,6 +395,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * 2024 - [CRPWarner: Warning the Risk of Contract-related Rug Pull in DeFi Smart Contracts.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CRPWarner%3A+Warning+the+Risk+of+Contract-related+Rug+Pull+in+DeFi+Smart+Contracts.&btnG=)
 * 2024 - [Unearthing Gas-Wasting Code Smells in Smart Contracts with Large Language Models](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unearthing+Gas-Wasting+Code+Smells+in+Smart+Contracts+with+Large+Language+Models&btnG=)
 * 2023 - [Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation](https://doi.org/10.1109/TSE.2023.3270117)
+* 2023 - [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nkjaN4QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=nkjaN4QAAAAJ:q3oQSFYPqjQC)
 * 2021 - [DefectChecker: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://doi.org/10.1109/TSE.2021.3054928)
 
 ##### TIFS
