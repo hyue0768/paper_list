@@ -217,6 +217,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * SIGMETRICS 25 - Towards Understanding and Analyzing Instant Cryptocurrency Exchanges 
 * SIGMETRICS 25 - Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks
 * SIGMETRICS 24 - [Miracle or Mirage? A Measurement Study of NFT Rug Pulls](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Miracle+or+Mirage%3F+A+Measurement+Study+of+NFT+Rug+Pulls&btnG=)
+* SIGMETRICS 23 - Towards Understanding and Characterizing the Arbitrage Bot Scam In the Wild
 * SIGMETRICS 22 - [Characterizing Cryptocurrency-themed Malicious Browser Extensions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Characterizing+Cryptocurrency-themed+Malicious+Browser+Extensions&btnG=)
 * SIGMETRICS 22 - [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Trade+or+Trick%3F+Detecting+and+Characterizing+Scam+Tokens+on+Uniswap+Decentralized+Exchange&btnG=)
 * SIGMETRICS 21 - [Tracking Counterfeit Cryptocurrency End-to-end](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Tracking+Counterfeit+Cryptocurrency+End-to-end&btnG=)
