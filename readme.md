@@ -339,6 +339,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### ICDE
 
 * ICDE 24 - [MuFuzz: Sequence-Aware Mutation and Seed Mask Guidance for Blockchain Smart Contract Fuzzing]()
+* ICDE 24 - [PrestigeBFT: Revolutionizing View Changes in BFT Consensus Algorithms with Reputation Mechanisms](https://ieeexplore.ieee.org/document/10598096)
 * ICDE 23 - [Scaling Blockchain Consensus via a Robust Shared Mempool]()
 
 ##### VLDB
@@ -352,6 +353,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * VLDB 23 - [ChainDash: An Ad-Hoc Blockchain Data Analytics System](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585)
 * VLDB 23 - [Auto-Tuning with Reinforcement Learning for Permissioned Blockchain Systems](https://www.vldb.org/pvldb/vol16/p1000-li.pdf)
 * VLDB 22 - [Hybrid Blockchain Database Systems: Design and Performance](https://dl.acm.org/doi/pdf/10.14778/3510397.3510406)
+* VLDB 22 - [Fairness Matters: A Tit-for-Tat Strategy Against Selfish Mining](https://dl.acm.org/doi/10.14778/3565838.3565856)
 
 ##### SIGMOD
 
@@ -423,6 +425,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * 2022 - [From Decentralization to Oligopoly: A Data-Driven Analysis of Decentralization Evolution and Voting Behaviors on EOSIO](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=From+Decentralization+to+Oligopoly%3A+A+Data-Driven+Analysis+of+Decentralization+Evolution+and+Voting+Behaviors+on+EOSIO&btnG=)
 * 2022 - [Hide and Seek: An Adversarial Hiding Approach Against Phishing Detection on Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Hide+and+Seek%3A+An+Adversarial+Hiding+Approach+Against+Phishing+Detection+on+Ethereum&btnG=)
 * 2022 - [Evolution of Ethereum Transaction Relationships: Toward Understanding Global Driving Factors From Microscopic Patterns](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Evolution+of+Ethereum+Transaction+Relationships%3A+Toward+Understanding+Global+Driving+Factors+From+Microscopic+Patterns&btnG=)
+* 2022 - [Assessment of Wealth Distribution in Blockchain Online Social Media](https://ieeexplore.ieee.org/document/9994663)
 
 ##### TSMC
 
@@ -438,4 +441,8 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### TSMC
 
 * 2022 - [Detecting mixing services via mining Bitcoin transaction network with hybrid motifs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detecting+mixing+services+via+mining+Bitcoin+transaction+network+with+hybrid+motifs&btnG=)
+
+##### JSAC
+
+- 2022 - [FRUIT: A Blockchain-Based Efficient and Privacy-Preserving Quality-Aware Incentive Scheme](https://ieeexplore.ieee.org/document/9915368)
 
