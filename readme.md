@@ -8,8 +8,9 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### CCS
 
-* CCS 24 - TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning
-* CCS 24 - Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models
+* CCS 24 - [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TokenScout%3A+Early+Detection+of+Ethereum+Scam+Tokens+via+Temporal+Graph+Learning&btnG=)
+* CCS 24 - [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+Automatic+Discovery+of+Denial+of+Service+Weaknesses+in+Blockchain+Resource+Models&btnG=)
+* CCS 24 - [Demo- Enhancing Smart Contract Security Comprehensively through Dynamic Symbolic Execution](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Demo-+Enhancing+Smart+Contract+Security+Comprehensively+through+Dynamic+Symbolic+Execution&btnG=)
 * CCS 24 - [Lutris: A Blockchain Combining Broadcast and Consensus](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Lutris%3A+A+Blockchain+Combining+Broadcast+and+Consensus&btnG=)
 * CCS 24 - [Blockchain Bribing Attacks and the Efficacy of Counterincentives](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blockchain+Bribing+Attacks+and+the+Efficacy+of+Counterincentives&btnG=)
 * CCS 24 - [zkLLM: Zero Knowledge Proofs for Large Language Models](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=zkLLM%3A+Zero+Knowledge+Proofs+for+Large+Language+Models&btnG=)
@@ -17,7 +18,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * CCS 24 - [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Rolling+in+the+Shadows%3A+Analyzing+the+Extraction+of+MEV+Across+Layer-2+Rollups&btnG=)
 * CCS 24 - [Stealing Trust- Unraveling Blind Message Attacks in Web3 Authentication](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stealing+Trust-+Unraveling+Blind+Message+Attacks+in+Web3+Authentication&btnG=)
 * CCS 24 - [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=fAmulet%3A+Finding+Finalization+Failure+Bugs+in+Polygon+zkRollup&btnG=)
-* CCS 24 - [DoubleUp Roll: Double-spending Vulnerabilities in Arbitrum and Optimism](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DoubleUp+Roll%3A+Double-spending+Vulnerabilities+in+Arbitrum+and+Optimism&btnG=)
+* CCS 24 - [DoubleUp Roll- Double-spending in Arbitrum by Rolling It Back](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DoubleUp+Roll-+Double-spending+in+Arbitrum+by+Rolling+It+Back&btnG=)
 * CCS 24 - [Characterizing Ethereum Address Poisoning Attack](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Characterizing+Ethereum+Address+Poisoning+Attack&btnG=)
 * CCS 23 - [Lanturn: Measuring economic security of smart contracts through adaptive learning](https://dl.acm.org/doi/abs/10.1145/3576915.3623204?casa_token=Ull5_ykaCgAAAAAA:oCQtYl8M9pVK_8ax2tsZWX76hdClUzkUmffCZSjsRJCgV_yYLarCMZTRCd9P0YDf4SWBnaX_w7ZvheM)
 * CCS 23 - [How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master)
