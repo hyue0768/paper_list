@@ -405,6 +405,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### TIFS
 
+* 2024 - VULSEYE: Detect Smart Contract Vulnerabilities via Stateful Directed Graybox Fuzzing
 * 2024 - [2DynEthNet: A Two-Dimensional Streaming Framework for Ethereum Phishing Scam Detection](https://doi.org/10.1109/TIFS.2024.3484296)
 * 2024 - [Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Who+Stole+My+NFT%3F+Investigating+Web3+NFT+Phishing+Scams+on+Ethereum&btnG=)
 * 2024 - [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs with Blockchain Data.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fishing+for+Fraudsters%3A+Uncovering+Ethereum+Phishing+Gangs+with+Blockchain+Data.&btnG=)
