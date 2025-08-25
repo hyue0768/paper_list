@@ -51,6 +51,12 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### SP
 
+* SP 25 - [Peer2PIR: Private Queries for IPFS.]()
+* SP 25 - [Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups).]()
+* SP 25 - [An Attack on TON’s ADNL Secure Channel Protocol.]()
+* SP 25 - [Decentralization of Ethereum's Builder Market.]()
+* SP 25 - [Liquefaction: Privately Liquefying Blockchain Assets.]()
+* SP 25 - [A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms.]()
 * SP 25 - [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4)
 * SP 25 - [Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a055/21B7R1Oem1q)
 * SP 25 - [Volatile and Persistent Memory for zkSNARKs via Algebraic Interactive Proofs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a054/21B7R0YQXtK)
@@ -85,11 +91,28 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### Usenix Security 
 
+* Security 25 - [Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain.]()
+* Security 25 - [Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue.]()
+* Security 25 - [SoK: Understanding zk-SNARKs: The Gap Between Research and Practice.]()
+* Security 25 - [Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer.]()
+* Security 25 - [Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake.]()
+* Security 25 - [Voting-Bloc Entropy: A New Metric for DAO Decentralization.]()
+* Security 25 - [Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks]()
+* Security 25 - [COLLISIONREPAIR: First-Aid and Automated Patching for Storage Collision Vulnerabilities in Smart Contracts.]()
+* Security 25 - [Let's Move2EVM.]()
+* Security 25 - [BEAT-MEV: Epochless Approach to Batched Threshold Encryption for MEV Prevention.]()
+* Security 25 - [Voting-Bloc Entropy: A New Metric for DAO Decentralization.]()
+* Security 25 - [Automated Soundness and Completeness Vetting of Polygon.]()
 * Security 24 - [All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=All+Your+Tokens+are+Belong+to+Us%3A+Demystifying+Address+Verification+Vulnerabilities+in+Solidity+Smart+Contracts&btnG=)
 * Security 24 - [zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://eprint.iacr.org/2024/888)
 * Security 24 - [Understanding Ethereum Mempool Security under Asymmetric {DoS} by Symbolized Stateful Fuzzing](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yibo)
 * Security 24 - [Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum {PoS}](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-mingfei)
 * Security 24 - [Speculative {Denial-of-Service} Attacks In Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Speculative+%7BDenial-of-Service%7D+Attacks+In+Ethereum&btnG=)
+* Security 24 - [SoK: What Don’t We Know? Understanding Security Vulnerabilities in SNARKs.]()
+* Security 24 - [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts.]()
+* Security 24 - [Practical Security Analysis of Zero-Knowledge Proof Circuits.]()
+* Security 24 - [GuideEnricher: Protecting the Anonymity of Ethereum Mixing Service Users with Deep Reinforcement Learning.]()
+* Security 24 - [Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus.]()
 * Security 24 - [Sprints: Intermittent Blockchain {PoW} Mining](https://www.usenix.org/conference/usenixsecurity24/presentation/mirkin)
 * Security 23 - [Smart learning to find dumb contracts](https://www.usenix.org/conference/usenixsecurity23/presentation/abdelaziz)
 * Security 23 - [Panda: Security Analysis of Algorand Smart Contracts](https://arxiv.org/pdf/2009.02663)
@@ -129,6 +152,16 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### NDSS 
 
 * NDSS 25 - [Dissecting Payload-based Transaction Phishing on Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dissecting+Payload-based+Transaction+Phishing+on+Ethereum&btnG=)
+* NDSS 25 - [Alba: The Dawn of Scalable Bridges for Blockchains.]()
+* NDSS 25 - [Anonymity Schemes Used by Cryptocurrencies.]()
+* NDSS 25 - [Eclipse Attacks on Monero's Peer-to-Peer Network.]()
+* NDSS 25 - [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation.]()
+* NDSS 25 - [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers.]()
+* NDSS 25 - [Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection.]()
+* NDSS 25 - [Siniel: Distributed Privacy-Preserving zkSNARK.]()
+* NDSS 25 - [The Forking Way: When TEEs Meet Consensus.]()
+* NDSS 25 - [Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead.]()
+* NDSS 25 - [Exploring User Perceptions of Security Auditing in the Web3 Ecosystem.]()
 * NDSS 25 - [Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NXOKQ8AAAAJ&sortby=pubdate&citation_for_view=2NXOKQ8AAAAJ:ULOm3_A8WrAC)
 * NDSS 24 - [Separation is good: A faster order-fairness Byzantine consensus](https://www.ndss-symposium.org/wp-content/uploads/2024-693-paper.pdf)
 * NDSS 24 - [DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs](https://www.ndss-symposium.org/wp-content/uploads/2024-888-paper.pdf)
@@ -155,6 +188,8 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### Asia CCS
 
+* Asia CCS 25 - [Mining Attack with Zero Knowledge in the Blockchain.]()
+* Asia CCS 25 - [FIRST: FrontrunnIng Resistant Smart ConTracts.]()
 * Asia CCS 22 - [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390)
 
 ##### Euro SP
@@ -166,14 +201,16 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### ICDCS
 
+* ICDCS 23 - [Proxion: Uncovering Hidden Proxy Smart Contracts for Finding Collision Vulnerabilities in Ethereum.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Proxion%3A+Uncovering+Hidden+Proxy+Smart+Contracts+for+Finding+Collision+Vulnerabilities+in+Ethereum.&btnG=)
 * ICDCS 23 - [Detecting Flash Loan Based Attacks in Ethereum](https://ieeexplore.ieee.org/abstract/document/10272455/)
-* ICDCS 23 - A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain
-* ICDCS 23 - Towards Decentralized Adaptive Control of Cryptocurrency Liquidity via Auction
+* ICDCS 23 - [A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain]
+* ICDCS 23 - [Towards Decentralized Adaptive Control of Cryptocurrency Liquidity via Auction]
 
 ##### RAID
 
 * RAID 24 - [Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems](https://dl.acm.org/doi/abs/10.1145/3678890.3678894)
 * RAID 24 - [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf)
+* RAID 23 - [Temporary Block Withholding Attacks on Filecoin’s Expected Consensus.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Temporary+Block+Withholding+Attacks+on+Filecoin%E2%80%99s+Expected+Consensus.&btnG=)
 * RAID 19 - [Towards a first step to understand the cryptocurrency stealing attack on ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+a+first+step+to+understand+the+cryptocurrency+stealing+attack+on+ethereum&btnG=)
 
 ##### NSDI
@@ -183,9 +220,28 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### ATC
 
 * ATC 2024 - [SlimArchive: A Lightweight Architecture for Ethereum Archive Nodes](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SlimArchive%3A+A+Lightweight+Architecture+for+Ethereum+Archive+Nodes&btnG=)
+* ATC 2022 - [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=An+Off-The-Chain+Execution+Environment+for+Scalable+Testing+and+Profiling+of+Smart+Contracts.&btnG=)
+* ATC 2022 - [RainBlock: Faster Transaction Processing in Public Blockchains.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=RainBlock%3A+Faster+Transaction+Processing+in+Public+Blockchains.&btnG=)
 
 ##### WWW 
 
+* WWW 25 - [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum's Block Building Market.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Private+Order+Flows+and+Builder+Bidding+Dynamics%3A+The+Road+to+Monopoly+in+Ethereum%27s+Block+Building+Market.&btnG=)
+* WWW 25 - [Distributed Ledger and Text Watermarking for Fine-Grain Provenance Checking of Textual Content.]()
+* WWW 25 - [CATALOG: Exploiting Joint Temporal Dependencies for Enhanced Phishing Detection on Ethereum.]()
+* WWW 25 - [AERO: Enhancing Sharding Blockchain via Deep Reinforcement Learning for Account Migration.]()
+* WWW 25 - [Quantitative Runtime Monitoring of Ethereum Transaction Attacks.]()
+* WWW 25 - [Fully Anonymous Decentralized Identity Supporting Threshold Traceability with Practical Blockchain]()
+* WWW 25 - [MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications.]()
+* WWW 25 - [The Poorest Man in Babylon: A Longitudinal Study of Cryptocurrency Investment Scams.]()
+* WWW 25 - [Linking Souls to Humans: Blockchain Accounts with Credible Anonymity for Web 3.0 Decentralized Identity.]()
+* WWW 25 - [SigScope: Detecting and Understanding Off-Chain Message Signing-related Vulnerabilities in Decentralized Applications]()
+* WWW 25 - [Hunting in the Dark Forest: A Pre-trained Model for On-chain Attack Transaction Detection in Web3]()
+* WWW 25 - [Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges.]()
+* WWW 25 - [Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem.]()
+* WWW 25 - [Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Gamblers+or+Delegatees%3A+Identifying+Hidden+Participant+Roles+in+Crypto+Casinos.&btnG=)
+* WWW 25 - [NFTs as a Data-Rich Test Bed: Conspicuous Consumption and its Determinants.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=NFTs+as+a+Data-Rich+Test+Bed%3A+Conspicuous+Consumption+and+its+Determinants.&btnG=)
+* WWW 25 - [Serial Scammers and Attack of the Clones: How Scammers Coordinate Multiple Rug Pulls on Decentralized Exchanges.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Serial+Scammers+and+Attack+of+the+Clones%3A+How+Scammers+Coordinate+Multiple+Rug+Pulls+on+Decentralized+Exchanges.&btnG=)
+* WWW 25 - [Centralization in the Decentralized Web: Challenges and Opportunities in IPFS Data Management.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Centralization+in+the+Decentralized+Web%3A+Challenges+and+Opportunities+in+IPFS+Data+Management.&btnG=)
 * WWW 24 - [Blockchain Censorship](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blockchain+Censorship&btnG=)
 * WWW 24 - [Investigations of Top-Level Domain Name Collisions in Blockchain Naming Services](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Investigations+of+Top-Level+Domain+Name+Collisions+in+Blockchain+Naming+Services&btnG=)
 * WWW 24 - [Identifying Risky Vendors in Cryptocurrency P2P Marketplaces](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Identifying+Risky+Vendors+in+Cryptocurrency+P2P+Marketplaces&btnG=)
