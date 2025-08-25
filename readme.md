@@ -322,6 +322,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### KDD
 
+* KDD 24 - [TEMPER: Capturing Consistent and Fluctuating TEMPoral User Behaviour for EtheReum Phishing Scam Detection.]
 * KDD 24 - [BitLINK: Temporal Linkage of Address Clusters in Bitcoin Blockchain]().
 * KDD 24 - [Money Never Sleeps: Maximizing Liquidity Mining Yields in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Money+Never+Sleeps%3A+Maximizing+Liquidity+Mining+Yields+in+Decentralized+Finance&btnG=)
 * KDD 23 - [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics](https://dl.acm.org/doi/pdf/10.1145/3580305.3599351).
@@ -349,6 +350,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### CHI
 
+* CHI 24 - [Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users.]
 * CHI 24 - [Stranger Danger? Investor Behavior and Incentives on Cryptocurrency Copy-Trading Platforms](https://dl.acm.org/doi/pdf/10.1145/3613904.3642715)
 * CHI 24 - [“Don’t Put All Your Eggs In One Basket”: How Cryptocurrency Users Choose and Secure Their Wallets](https://dl.acm.org/doi/pdf/10.1145/3613904.3642534)
 * CHI 23 - [Altruistic and Profit-oriented- Making Sense of Roles in Web3 Community from Airdrop Perspective](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Altruistic+and+Profit-oriented-+Making+Sense+of+Roles+in+Web3+Community+from+Airdrop+Perspective&btnG=)
@@ -371,6 +373,15 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### ESEC/FSE
 
+* FSE 25 - [DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models.]
+* FSE 25 - [VERITE: A Profit-Centric Smart Contract Fuzzing Framework.]
+* FSE 25 - [Automated and Accurate Token Transfer Identification and Its Applications in Cryptocurrency Security.]
+* FSE 25 - [Clone Detection for Smart Contracts: How Far Are We?.]
+* FSE 25 - [SmartShot: Hunt Hidden Vulnerabilities in Smart Contracts using Mutable Snapshots.]
+* FSE 25 - [Detecting Smart Contract State-Inconsistency Bugs via Flow Divergence and Multiplex Symbolic Execution.]
+* FSE 25 - [Smart Contract Fuzzing Towards Profitable Vulnerabilities.]
+* FSE 25 - [SoK: A Taxonomic Analysis of DeFi Rug Pulls: Types, Dataset, and Tool Assessment.]
+* FSE 25 - [Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection.]
 * FSE 24 - [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](https://dl.acm.org/doi/abs/10.1145/3660772)
 * FSE 24 - [Smartaxe: Detecting cross-chain vulnerabilities in bridge smart contracts via fine-grained static analysis](https://dl.acm.org/doi/abs/10.1145/3643738)
 * FSE 24 - [Efficiently detecting reentrancy vulnerabilities in complex smart contracts](https://dl.acm.org/doi/abs/10.1145/3643734)
