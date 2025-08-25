@@ -267,10 +267,37 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### INFOCOM
 
+* INFOCOM 25 - [ContribChain: A Stress-Balanced Blockchain Sharding Protocol with Node Contribution Awareness.]
+* INFOCOM 25 - [EC-Chain: Cost-Effective Storage Solution for Permissionless Blockchains.]
+* INFOCOM 25 - [ConWatcher: Towards Adaptive and Label-Efficient Online Smart Contract Analysis in Blockchains.]
+* INFOCOM 25 - [ExClique: An Express Consensus Algorithm for High-Speed Transaction Process in Blockchains.]
+* INFOCOM 25 - [LBFT-DAG: a Swift, Leader-driven, DAG-based Consortium Blockchain with Byzantine Fault-tolerance.]
+* INFOCOM 25 - [AIGC-CM: An Efficient and Scalable Blockchain Solution for AIGC Copyright Management.]
+* INFOCOM 25 - [Justitia: An Incentive Mechanism Towards the Fairness of Cross-Shard Transactions.]
 * INFOCOM 24 - [ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ConFuzz%3A+Towards+Large+Scale+Fuzz+Testing+of+Smart+Contracts+in+Ethereum&btnG=)
+* INFOCOM 24 - [IPFS in the Fast Lane: Accelerating Record Storage with Optimistic Provide.]
+* INFOCOM 24 - [Federated Analytics-Empowered Frequent Pattern Mining for Decentralized Web 3.0 Applications.]
+* INFOCOM 24 - [DEthna: Accurate Ethereum Network Topology Discovery with Marked Transactions.]
+* INFOCOM 24 - [Broker2Earn: Towards Maximizing Broker Revenue and System Liquidity for Sharded Blockchains.]
+* INFOCOM 24 - [Account Migration across Blockchain Shards using Fine-tuned Lock Mechanism.]
+* INFOCOM 23 - [Latency-First Smart Contract: Overclock the Blockchain for a while.]
+* INFOCOM 23 - [A Decentralized Truth Discovery Approach to the Blockchain Oracle Problem.]
+* INFOCOM 22 - [S-Store: A Scalable Data Store towards Permissioned Blockchain Sharding.]
+* INFOCOM 21 - [Code is the (F)Law: Demystifying and Mitigating Blockchain Inconsistency Attacks Caused by Software Bugs.]
+* INFOCOM 21 - [Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks.]
+* INFOCOM 21 - [Characterizing Ethereum's Mining Power Decentralization at a Deeper Level.]
+* INFOCOM 20 - [ET-DeaL: A P2P Smart Contract-based Secure Energy Trading Scheme for Smart Grid Systems.]
+* INFOCOM 20 - [A Solution for State Conflicts of Smart Contract in Interaction with Non-blockchain.]
+* INFOCOM 20 - [ChainIDE 2.0: Facilitating Smart Contract Development for Consortium Blockchain.]
+* INFOCOM 20 - [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves.]
+* INFOCOM 19 - [Interledger Smart Contracts for Decentralized Authorization to Constrained Things.]
+* INFOCOM 18 - [Understanding ethereum via graph analysis.]
 
 ##### SIGMETRICS
 
+* SIGMETRICS 25 - [The Last Survivor of PoS Pools: Staker's Dilemma](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=The+Last+Survivor+of+PoS+Pools%3A+Staker%27s+Dilemma&btnG=)
+* SIGMETRICS 25 - [Blockchain Amplification Attack.]
+* SIGMETRICS 25 - [Phishing Tactics Are Evolving: An Empirical Study of Phishing Contracts on Ethereum.]
 * SIGMETRICS 25 - [Towards Understanding and Analyzing Instant Cryptocurrency Exchanges](https://dl.acm.org/doi/abs/10.1145/3700430) 
 * SIGMETRICS 25 - [Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks](https://dl.acm.org/doi/abs/10.1145/3700424)
 * SIGMETRICS 24 - [Miracle or Mirage? A Measurement Study of NFT Rug Pulls](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Miracle+or+Mirage%3F+A+Measurement+Study+of+NFT+Rug+Pulls&btnG=)
@@ -283,6 +310,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### IMC 
 
+* IMC 24 - [Analyzing the Impact of Copying-and-Pasting Vulnerable Solidity Code Snippets from Question-and-Answer Websites.]
 * IMC 23 - [Ethereum's Proposer-Builder Separation- Promises and Realities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Ethereum%27s+Proposer-Builder+Separation-+Promises+and+Realities&btnG=)
 * IMC 23 - [The Cloud Strikes Back: Investigating the Decentralization of IPFS](https://dl.acm.org/doi/abs/10.1145/3618257.3624797)
 * IMC 22 - [A Flash(bot) in the Pan: Measuring Maximal Extractable Value in Private Pools](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Flash%28bot%29+in+the+Pan%3A+Measuring+Maximal+Extractable+Value+in+Private+Pools&btnG=)
