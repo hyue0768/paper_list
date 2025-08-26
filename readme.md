@@ -106,6 +106,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * Security 24 - [All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=All+Your+Tokens+are+Belong+to+Us%3A+Demystifying+Address+Verification+Vulnerabilities+in+Solidity+Smart+Contracts&btnG=)
 * Security 24 - [zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://eprint.iacr.org/2024/888)
 * Security 24 - [Understanding Ethereum Mempool Security under Asymmetric {DoS} by Symbolized Stateful Fuzzing](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yibo)
+* Security 24 - [Guardians of the Galaxy: Content Moderation in the {InterPlanetary} File System]()
 * Security 24 - [Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum {PoS}](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-mingfei)
 * Security 24 - [Speculative {Denial-of-Service} Attacks In Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Speculative+%7BDenial-of-Service%7D+Attacks+In+Ethereum&btnG=)
 * Security 24 - [SoK: What Don’t We Know? Understanding Security Vulnerabilities in SNARKs.]()
