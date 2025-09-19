@@ -342,6 +342,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### FC
 
 * FC 23 - [DeFi Auditing: Mechanisms, Effectiveness, and User Perceptions](https://link.springer.com/chapter/10.1007/978-3-031-48806-1_21)
+* FC 23 - [Demystifying Web3 Centralization: The Case of Off-Chain NFT Hijacking]()
 * FC 23 - [Mitigating decentralized finance liquidations with reversible call options](https://link.springer.com/chapter/10.1007/978-3-031-47754-6_20)
 * FC 22 - [Speculative multipliers on defi: Quantifying on-chain leverage risks](https://link.springer.com/chapter/10.1007/978-3-031-18283-9_3)
 * FC 21 - [Attacking the DeFi ecosystem with flash loans for fun and profit](https://link.springer.com/chapter/10.1007/978-3-662-64322-8_1?trk=public_post_comment-text)
