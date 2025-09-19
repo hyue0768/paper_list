@@ -87,6 +87,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * SP 21 - [High-frequency trading on decentralized on-chain exchanges](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=High-frequency+trading+on+decentralized+on-chain+exchanges&btnG=)
 * SP 21 - [On the just-in-time discovery of profit-generating transactions in defi protocols](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=On+the+just-in-time+discovery+of+profit-generating+transactions+in+defi+protocols&btnG=)
 * SP 20 - [Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Flash+boys+2.0%3A+Frontrunning+in+decentralized+exchanges%2C+miner+extractable+value%2C+and+consensus+instability&btnG=)
+* SP 17 - [Hijacking Bitcoin: Routing Attacks on Cryptocurrencies](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Hijacking+Bitcoin%3A+Routing+attacks+on+cryptocurrencies.&btnG=)
 * SP 15 - [The miner's dilemma](https://ieeexplore.ieee.org/abstract/document/7163020/?casa_token=2ShbDBdLkqsAAAAA:2azvGTReTOEq1W57w26L7RFfiWDIccjuTzxLD9j4ErZZ7skL1hrK4FqetEvLKdwQK9gBnIftdGZ3cw)
 
 ##### Usenix Security 
@@ -196,7 +197,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### Euro SP
 
 * Euro SP 23 - [EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation]().
-* 
+* Euro SP 23 - [Revelio: A Network-Level Privacy Attack in the Lightning Network.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Revelio%3A+A+Network-Level+Privacy+Attack+in+the+Lightning+Network.&btnG=).
 
 #### Network/System/Cross-discipline
 
