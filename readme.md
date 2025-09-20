@@ -10,7 +10,6 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 * CCS 24 - [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TokenScout%3A+Early+Detection+of+Ethereum+Scam+Tokens+via+Temporal+Graph+Learning&btnG=)
 * CCS 24 - [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+Automatic+Discovery+of+Denial+of+Service+Weaknesses+in+Blockchain+Resource+Models&btnG=)
-* CCS 24 - [Demo- Enhancing Smart Contract Security Comprehensively through Dynamic Symbolic Execution](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Demo-+Enhancing+Smart+Contract+Security+Comprehensively+through+Dynamic+Symbolic+Execution&btnG=)
 * CCS 24 - [Lutris: A Blockchain Combining Broadcast and Consensus](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Lutris%3A+A+Blockchain+Combining+Broadcast+and+Consensus&btnG=)
 * CCS 24 - [Blockchain Bribing Attacks and the Efficacy of Counterincentives](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blockchain+Bribing+Attacks+and+the+Efficacy+of+Counterincentives&btnG=)
 * CCS 24 - [zkLLM: Zero Knowledge Proofs for Large Language Models](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=zkLLM%3A+Zero+Knowledge+Proofs+for+Large+Language+Models&btnG=)
