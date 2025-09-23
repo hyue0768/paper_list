@@ -191,7 +191,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 * Asia CCS 25 - [Mining Attack with Zero Knowledge in the Blockchain.]()
 * Asia CCS 25 - [FIRST: FrontrunnIng Resistant Smart ConTracts.]()
-* Asia CCS 22 - [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390)
+* Asia CCS 22 - [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390)()
 
 ##### Euro SP
 
@@ -204,7 +204,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 * ICDCS 23 - [Proxion: Uncovering Hidden Proxy Smart Contracts for Finding Collision Vulnerabilities in Ethereum.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Proxion%3A+Uncovering+Hidden+Proxy+Smart+Contracts+for+Finding+Collision+Vulnerabilities+in+Ethereum.&btnG=)
 * ICDCS 23 - [Detecting Flash Loan Based Attacks in Ethereum](https://ieeexplore.ieee.org/abstract/document/10272455/)
-* ICDCS 23 - [A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain]
+* ICDCS 23 - [A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain]()
 * ICDCS 23 - [Towards Decentralized Adaptive Control of Cryptocurrency Liquidity via Auction]
 
 ##### RAID
@@ -268,37 +268,37 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### INFOCOM
 
-* INFOCOM 25 - [ContribChain: A Stress-Balanced Blockchain Sharding Protocol with Node Contribution Awareness.]
-* INFOCOM 25 - [EC-Chain: Cost-Effective Storage Solution for Permissionless Blockchains.]
-* INFOCOM 25 - [ConWatcher: Towards Adaptive and Label-Efficient Online Smart Contract Analysis in Blockchains.]
-* INFOCOM 25 - [ExClique: An Express Consensus Algorithm for High-Speed Transaction Process in Blockchains.]
-* INFOCOM 25 - [LBFT-DAG: a Swift, Leader-driven, DAG-based Consortium Blockchain with Byzantine Fault-tolerance.]
-* INFOCOM 25 - [AIGC-CM: An Efficient and Scalable Blockchain Solution for AIGC Copyright Management.]
-* INFOCOM 25 - [Justitia: An Incentive Mechanism Towards the Fairness of Cross-Shard Transactions.]
+* INFOCOM 25 - [ContribChain: A Stress-Balanced Blockchain Sharding Protocol with Node Contribution Awareness.]()
+* INFOCOM 25 - [EC-Chain: Cost-Effective Storage Solution for Permissionless Blockchains.]()
+* INFOCOM 25 - [ConWatcher: Towards Adaptive and Label-Efficient Online Smart Contract Analysis in Blockchains.]()
+* INFOCOM 25 - [ExClique: An Express Consensus Algorithm for High-Speed Transaction Process in Blockchains.]()
+* INFOCOM 25 - [LBFT-DAG: a Swift, Leader-driven, DAG-based Consortium Blockchain with Byzantine Fault-tolerance.]()
+* INFOCOM 25 - [AIGC-CM: An Efficient and Scalable Blockchain Solution for AIGC Copyright Management.]()
+* INFOCOM 25 - [Justitia: An Incentive Mechanism Towards the Fairness of Cross-Shard Transactions.]()
 * INFOCOM 24 - [ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ConFuzz%3A+Towards+Large+Scale+Fuzz+Testing+of+Smart+Contracts+in+Ethereum&btnG=)
-* INFOCOM 24 - [IPFS in the Fast Lane: Accelerating Record Storage with Optimistic Provide.]
-* INFOCOM 24 - [Federated Analytics-Empowered Frequent Pattern Mining for Decentralized Web 3.0 Applications.]
-* INFOCOM 24 - [DEthna: Accurate Ethereum Network Topology Discovery with Marked Transactions.]
-* INFOCOM 24 - [Broker2Earn: Towards Maximizing Broker Revenue and System Liquidity for Sharded Blockchains.]
-* INFOCOM 24 - [Account Migration across Blockchain Shards using Fine-tuned Lock Mechanism.]
-* INFOCOM 23 - [Latency-First Smart Contract: Overclock the Blockchain for a while.]
-* INFOCOM 23 - [A Decentralized Truth Discovery Approach to the Blockchain Oracle Problem.]
-* INFOCOM 22 - [S-Store: A Scalable Data Store towards Permissioned Blockchain Sharding.]
-* INFOCOM 21 - [Code is the (F)Law: Demystifying and Mitigating Blockchain Inconsistency Attacks Caused by Software Bugs.]
-* INFOCOM 21 - [Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks.]
-* INFOCOM 21 - [Characterizing Ethereum's Mining Power Decentralization at a Deeper Level.]
-* INFOCOM 20 - [ET-DeaL: A P2P Smart Contract-based Secure Energy Trading Scheme for Smart Grid Systems.]
-* INFOCOM 20 - [A Solution for State Conflicts of Smart Contract in Interaction with Non-blockchain.]
-* INFOCOM 20 - [ChainIDE 2.0: Facilitating Smart Contract Development for Consortium Blockchain.]
-* INFOCOM 20 - [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves.]
-* INFOCOM 19 - [Interledger Smart Contracts for Decentralized Authorization to Constrained Things.]
-* INFOCOM 18 - [Understanding ethereum via graph analysis.]
+* INFOCOM 24 - [IPFS in the Fast Lane: Accelerating Record Storage with Optimistic Provide.]()
+* INFOCOM 24 - [Federated Analytics-Empowered Frequent Pattern Mining for Decentralized Web 3.0 Applications.]()
+* INFOCOM 24 - [DEthna: Accurate Ethereum Network Topology Discovery with Marked Transactions.]()
+* INFOCOM 24 - [Broker2Earn: Towards Maximizing Broker Revenue and System Liquidity for Sharded Blockchains.]()
+* INFOCOM 24 - [Account Migration across Blockchain Shards using Fine-tuned Lock Mechanism.]()
+* INFOCOM 23 - [Latency-First Smart Contract: Overclock the Blockchain for a while.]()
+* INFOCOM 23 - [A Decentralized Truth Discovery Approach to the Blockchain Oracle Problem.]()
+* INFOCOM 22 - [S-Store: A Scalable Data Store towards Permissioned Blockchain Sharding.]()
+* INFOCOM 21 - [Code is the (F)Law: Demystifying and Mitigating Blockchain Inconsistency Attacks Caused by Software Bugs.]()
+* INFOCOM 21 - [Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks.]()
+* INFOCOM 21 - [Characterizing Ethereum's Mining Power Decentralization at a Deeper Level.]()
+* INFOCOM 20 - [ET-DeaL: A P2P Smart Contract-based Secure Energy Trading Scheme for Smart Grid Systems.]()
+* INFOCOM 20 - [A Solution for State Conflicts of Smart Contract in Interaction with Non-blockchain.]()
+* INFOCOM 20 - [ChainIDE 2.0: Facilitating Smart Contract Development for Consortium Blockchain.]()
+* INFOCOM 20 - [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves.]()
+* INFOCOM 19 - [Interledger Smart Contracts for Decentralized Authorization to Constrained Things.]()
+* INFOCOM 18 - [Understanding ethereum via graph analysis.]()
 
 ##### SIGMETRICS
 
 * SIGMETRICS 25 - [The Last Survivor of PoS Pools: Staker's Dilemma](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=The+Last+Survivor+of+PoS+Pools%3A+Staker%27s+Dilemma&btnG=)
-* SIGMETRICS 25 - [Blockchain Amplification Attack.]
-* SIGMETRICS 25 - [Phishing Tactics Are Evolving: An Empirical Study of Phishing Contracts on Ethereum.]
+* SIGMETRICS 25 - [Blockchain Amplification Attack.]()
+* SIGMETRICS 25 - [Phishing Tactics Are Evolving: An Empirical Study of Phishing Contracts on Ethereum.]()
 * SIGMETRICS 25 - [Towards Understanding and Analyzing Instant Cryptocurrency Exchanges](https://dl.acm.org/doi/abs/10.1145/3700430) 
 * SIGMETRICS 25 - [Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks](https://dl.acm.org/doi/abs/10.1145/3700424)
 * SIGMETRICS 24 - [Miracle or Mirage? A Measurement Study of NFT Rug Pulls](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Miracle+or+Mirage%3F+A+Measurement+Study+of+NFT+Rug+Pulls&btnG=)
@@ -311,8 +311,8 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### IMC 
 
-* IMC 24 - [Analyzing the Impact of Copying-and-Pasting Vulnerable Solidity Code Snippets from Question-and-Answer Websites.]
-* IMC 23 - [Ethereum's Proposer-Builder Separation- Promises and Realities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Ethereum%27s+Proposer-Builder+Separation-+Promises+and+Realities&btnG=)
+* IMC 24 - [Analyzing the Impact of Copying-and-Pasting Vulnerable Solidity Code Snippets from Question-and-Answer Websites.]()
+* IMC 23 - [Ethereum's Proposer-Builder Separation- Promises and Realities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Ethereum%27s+Proposer-Builder+Separation-+Promises+and+Realities&btnG=)()
 * IMC 23 - [The Cloud Strikes Back: Investigating the Decentralization of IPFS](https://dl.acm.org/doi/abs/10.1145/3618257.3624797)
 * IMC 22 - [A Flash(bot) in the Pan: Measuring Maximal Extractable Value in Private Pools](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Flash%28bot%29+in+the+Pan%3A+Measuring+Maximal+Extractable+Value+in+Private+Pools&btnG=)
 * IMC 22 - [Challenges in decentralized name management: the case of ENS](https://dl.acm.org/doi/abs/10.1145/3517745.3561469)
@@ -323,7 +323,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### KDD
 
-* KDD 24 - [TEMPER: Capturing Consistent and Fluctuating TEMPoral User Behaviour for EtheReum Phishing Scam Detection.]
+* KDD 24 - [TEMPER: Capturing Consistent and Fluctuating TEMPoral User Behaviour for EtheReum Phishing Scam Detection.]()
 * KDD 24 - [BitLINK: Temporal Linkage of Address Clusters in Bitcoin Blockchain]().
 * KDD 24 - [Money Never Sleeps: Maximizing Liquidity Mining Yields in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Money+Never+Sleeps%3A+Maximizing+Liquidity+Mining+Yields+in+Decentralized+Finance&btnG=)
 * KDD 23 - [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics](https://dl.acm.org/doi/pdf/10.1145/3580305.3599351).
@@ -352,7 +352,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### CHI
 
-* CHI 24 - [Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users.]
+* CHI 24 - [Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users.]()
 * CHI 24 - [Stranger Danger? Investor Behavior and Incentives on Cryptocurrency Copy-Trading Platforms](https://dl.acm.org/doi/pdf/10.1145/3613904.3642715)
 * CHI 24 - [“Don’t Put All Your Eggs In One Basket”: How Cryptocurrency Users Choose and Secure Their Wallets](https://dl.acm.org/doi/pdf/10.1145/3613904.3642534)
 * CHI 23 - [Altruistic and Profit-oriented- Making Sense of Roles in Web3 Community from Airdrop Perspective](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Altruistic+and+Profit-oriented-+Making+Sense+of+Roles+in+Web3+Community+from+Airdrop+Perspective&btnG=)
@@ -375,15 +375,15 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### ESEC/FSE
 
-* FSE 25 - [DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models.]
-* FSE 25 - [VERITE: A Profit-Centric Smart Contract Fuzzing Framework.]
-* FSE 25 - [Automated and Accurate Token Transfer Identification and Its Applications in Cryptocurrency Security.]
-* FSE 25 - [Clone Detection for Smart Contracts: How Far Are We?.]
-* FSE 25 - [SmartShot: Hunt Hidden Vulnerabilities in Smart Contracts using Mutable Snapshots.]
-* FSE 25 - [Detecting Smart Contract State-Inconsistency Bugs via Flow Divergence and Multiplex Symbolic Execution.]
-* FSE 25 - [Smart Contract Fuzzing Towards Profitable Vulnerabilities.]
-* FSE 25 - [SoK: A Taxonomic Analysis of DeFi Rug Pulls: Types, Dataset, and Tool Assessment.]
-* FSE 25 - [Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection.]
+* FSE 25 - [DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models.]()
+* FSE 25 - [VERITE: A Profit-Centric Smart Contract Fuzzing Framework.]()
+* FSE 25 - [Automated and Accurate Token Transfer Identification and Its Applications in Cryptocurrency Security.]()
+* FSE 25 - [Clone Detection for Smart Contracts: How Far Are We?.]()
+* FSE 25 - [SmartShot: Hunt Hidden Vulnerabilities in Smart Contracts using Mutable Snapshots.]()
+* FSE 25 - [Detecting Smart Contract State-Inconsistency Bugs via Flow Divergence and Multiplex Symbolic Execution.]()
+* FSE 25 - [Smart Contract Fuzzing Towards Profitable Vulnerabilities.]()
+* FSE 25 - [SoK: A Taxonomic Analysis of DeFi Rug Pulls: Types, Dataset, and Tool Assessment.]()
+* FSE 25 - [Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection.]()
 * FSE 24 - [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](https://dl.acm.org/doi/abs/10.1145/3660772)
 * FSE 24 - [Smartaxe: Detecting cross-chain vulnerabilities in bridge smart contracts via fine-grained static analysis](https://dl.acm.org/doi/abs/10.1145/3643738)
 * FSE 24 - [Efficiently detecting reentrancy vulnerabilities in complex smart contracts](https://dl.acm.org/doi/abs/10.1145/3643734)
@@ -401,31 +401,30 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### ICSE 
 
-* ICSE 25 - [Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects]
-* ICSE 25 - [Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration]
-* ICSE 25 - [Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts]
-* ICSE 25 - [FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.]
-* ICSE 25 - [Safeguarding DeFi Smart Contracts against Oracle Deviations.]
-* ICSE 25 - [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution.]
-* ICSE 25 - [Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications.]
-* ICSE 25 - [An Empirical Study of Proxy Smart Contracts at the Ethereum Ecosystem Scale.]
-* ICSE 25 - [Fork State-Aware Differential Fuzzing for Blockchain Consensus Implementations.]
-* ICSE 25 - [FairChecker: Detecting Fund-stealing Bugs in DeFi Protocols via Fairness Validation.]
-* ICSE 25 - [Code Cloning in Solidity Smart Contracts: Prevalence, Evolution, and Impact on Development.]
-* ICSE 25 - [Definition and Detection of Centralization Defects in Smart Contracts.]
-* ICSE 25 - [Chord: Towards a Unified Detection of Blockchain Transaction Parallelism Bugs.]
-* ICSE 25 - [FairChecker: Detecting Fund-stealing Bugs in DeFi Protocols via Fairness Validation.]
-* ICSE 25 - [SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis.]
-* ICSE 24 - [FlashSyn: Flash Loan Attack Synthesis via Counter Example Driven Approximation.]
-* ICSE 24 - [Stop Pulling my Rug: Exposing Rug Pull Risks in Crypto Token to Investors.]
-* ICSE 24 - [Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection.]
-* ICSE 24 - [Towards Finding Accounting Errors in Smart Contracts.]
-* ICSE 24 - [PrettySmart: Detecting Permission Re-delegation Vulnerability for Token Behaviors in Smart Contracts.]
-* ICSE 24 - [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG).]
-* ICSE 24 - [Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts.]
-* ICSE 24 - [Safeguarding DeFi Smart Contracts against Oracle Deviations.]
-* ICSE 24 - [Verifying Declarative Smart Contracts.]
-* ICSE 24 - []
+* ICSE 25 - [Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects]()
+* ICSE 25 - [Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration]()
+* ICSE 25 - [Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts]()
+* ICSE 25 - [FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction.]()
+* ICSE 25 - [Safeguarding DeFi Smart Contracts against Oracle Deviations.]()
+* ICSE 25 - [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution.]()
+* ICSE 25 - [Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications.]()
+* ICSE 25 - [An Empirical Study of Proxy Smart Contracts at the Ethereum Ecosystem Scale.]()
+* ICSE 25 - [Fork State-Aware Differential Fuzzing for Blockchain Consensus Implementations.]()
+* ICSE 25 - [FairChecker: Detecting Fund-stealing Bugs in DeFi Protocols via Fairness Validation.]()
+* ICSE 25 - [Code Cloning in Solidity Smart Contracts: Prevalence, Evolution, and Impact on Development.]()
+* ICSE 25 - [Definition and Detection of Centralization Defects in Smart Contracts.]()
+* ICSE 25 - [Chord: Towards a Unified Detection of Blockchain Transaction Parallelism Bugs.]()
+* ICSE 25 - [FairChecker: Detecting Fund-stealing Bugs in DeFi Protocols via Fairness Validation.]()
+* ICSE 25 - [SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis.]()
+* ICSE 24 - [FlashSyn: Flash Loan Attack Synthesis via Counter Example Driven Approximation.]()
+* ICSE 24 - [Stop Pulling my Rug: Exposing Rug Pull Risks in Crypto Token to Investors.]()
+* ICSE 24 - [Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection.]()
+* ICSE 24 - [Towards Finding Accounting Errors in Smart Contracts.]()
+* ICSE 24 - [PrettySmart: Detecting Permission Re-delegation Vulnerability for Token Behaviors in Smart Contracts.]()
+* ICSE 24 - [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG).]()
+* ICSE 24 - [Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts.]()
+* ICSE 24 - [Safeguarding DeFi Smart Contracts against Oracle Deviations.]()
+* ICSE 24 - [Verifying Declarative Smart Contracts.]()
 * ICSE 24 - [When Contracts Meets Crypto: Exploring Developers’ Struggles with Ethereum Cryptographic APIs](https://dl.acm.org/doi/pdf/10.1145/3597503.3639131)
 * ICSE 24 - [Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Are+We+There+Yet%3F+Unraveling+the+State-of-the-Art+Smart+Contract+Fuzzers&btnG=)
 * ICSE 24 - [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=GPTScan%3A+Detecting+Logic+Vulnerabilities+in+Smart+Contracts+by+Combining+GPT+with+Program+Analysis&btnG=)
@@ -433,30 +432,30 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ICSE 24 - [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://doi.org/10.1145/3597503.3623335)
 * ICSE 24 - [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nkjaN4QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=nkjaN4QAAAAJ:hMsQuOkrut0C)
 * ICSE 23 - [DAppHunter: Identifying Inconsistent Behaviors of Blockchain-based Decentralized Applications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nkjaN4QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=nkjaN4QAAAAJ:tkaPQYYpVKoC)
-* ICSE 23 - [Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum]
-* ICSE 23 - [Demystifying Exploitable Bugs in Smart Contracts.]
-* ICSE 23 - [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts.]
-* ICSE 23 - [AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities.]
-* ICSE 23 - [SmartMark: Software Watermarking Scheme for Smart Contracts.]
-* ICSE 22 - [Utilizing Parallelism in Smart Contracts on Decentralized Blockchains by Taming Application-Inherent Conflicts.]
-* ICSE 21 - [Smart Contract Security: a Practitioners' Perspective.]
-* ICSE 20 - [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts.]
-* ICSE 20 - [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts.]
-* ICSE 20 - [Gap between Theory and Practice: An Empirical Study of Security Patches in Solidity.]
-* ICSE 20 - [Seraph: Enabling Cross-Platform Security Analysis For EVM and WASM Smart Contracts.]
-* ICSE 19 - [Gigahorse: Thorough, Declarative Decompilation of Smart Contracts.]
-* ICSE 19 - [VULTRON: Catching Vulnerable Smart Contracts Once and for All.]
-* ICSE 18 - [ReGuard: Finding Reentrancy Bugs in Smart Contracts.]
+* ICSE 23 - [Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum]()
+* ICSE 23 - [Demystifying Exploitable Bugs in Smart Contracts.]()
+* ICSE 23 - [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts.]()
+* ICSE 23 - [AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities.]()
+* ICSE 23 - [SmartMark: Software Watermarking Scheme for Smart Contracts.]()
+* ICSE 22 - [Utilizing Parallelism in Smart Contracts on Decentralized Blockchains by Taming Application-Inherent Conflicts.]()
+* ICSE 21 - [Smart Contract Security: a Practitioners' Perspective.]()
+* ICSE 20 - [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts.]()
+* ICSE 20 - [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts.]()
+* ICSE 20 - [Gap between Theory and Practice: An Empirical Study of Security Patches in Solidity.]()
+* ICSE 20 - [Seraph: Enabling Cross-Platform Security Analysis For EVM and WASM Smart Contracts.]()
+* ICSE 19 - [Gigahorse: Thorough, Declarative Decompilation of Smart Contracts.]()
+* ICSE 19 - [VULTRON: Catching Vulnerable Smart Contracts Once and for All.]()
+* ICSE 18 - [ReGuard: Finding Reentrancy Bugs in Smart Contracts.]()
 
 ##### ISSTA
 
-* ISSTA 25 - [Automated Attack Synthesis for Constant Product Market Makers]
-* ISSTA 25 - [Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts]
-* ISSTA 25 - [OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine]
-* ISSTA 25 - [Enhancing Smart Contract Security Analysis with Execution Property Graphs]
-* ISSTA 25 - [Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection]
-* ISSTA 25 - [SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment]
-* ISSTA 25 - [The Incredible Shrinking Context... in a Decompiler Near You]
+* ISSTA 25 - [Automated Attack Synthesis for Constant Product Market Makers]()
+* ISSTA 25 - [Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts]()
+* ISSTA 25 - [OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine]()
+* ISSTA 25 - [Enhancing Smart Contract Security Analysis with Execution Property Graphs]()
+* ISSTA 25 - [Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection]()
+* ISSTA 25 - [SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment]()
+* ISSTA 25 - [The Incredible Shrinking Context... in a Decompiler Near You]()
 * ISSTA 24 - [DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DeFort%3A+Automatic+Detection+and+Analysis+of+Price+Manipulation+Attacks+in+DeFi+Applications&btnG=)
 * ISSTA 24 - [DAppFL: Just-in-Time Fault Localization for Decentralized Applications in Web3](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DAppFL%3A+Just-in-Time+Fault+Localization+for+Decentralized+Applications+in+Web3&btnG=)
 * ISSTA 24 - [Midas: Mining Profitable Exploits in On-Chain Smart Contracts via Feedback-Driven Fuzzing and Differential Analysis](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Midas%3A+Mining+Profitable+Exploits+in+On-Chain+Smart+Contracts+via+Feedback-Driven+Fuzzing+and+Differential+Analysis&btnG=)
@@ -474,26 +473,26 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * ISSTA 23 - [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3597926.3598125)
 * ISSTA 23 - [isyn: Semi-automated smart contract synthesis from legal financial agreements](https://dl.acm.org/doi/abs/10.1145/3597926.3598091)
 * ISSTA 23 - [Smartstate: Detecting state-reverting vulnerabilities in smart contracts via fine-grained state-dependency analysis](https://dl.acm.org/doi/abs/10.1145/3597926.3598111)
-* ISSTA 22 - [WASAI: uncovering vulnerabilities in Wasm smart contracts.]
-* ISSTA 22 - [Finding permission bugs in smart contracts with role mining]
-* ISSTA 22 - [eTainter: detecting gas-related vulnerabilities in smart contracts]
-* ISSTA 22 - [Park: accelerating smart contract vulnerability detection via parallel-fork symbolic execution.]
-* ISSTA 22 - [SmartDagger: a bytecode-based static analysis approach for detecting cross-contract vulnerability.]
-* ISSTA 22 - [SpCon: Finding Smart Contract Permission Bugs with Role Mining.]
-* ISSTA 21 - [Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?.]
-* ISSTA 21 - [SCStudio: A Secure and Efficient Integrated Development Environment for Smart Contracts.]
-* ISSTA 20 - [How effective are smart contract analysis tools? evaluating smart contract static analysis tools using bug injection.]
-* ISSTA 20 - [Echidna: effective, usable, and fast fuzzing for smart contracts.]
-* ISSTA 20 - [EShield: protect smart contracts against reverse engineering.]
-* ISSTA 19 - [SAFEVM: a safety verifier for Ethereum smart contracts.]
-* ISSTA 19 - [Exploiting the laws of order in smart contracts.]
+* ISSTA 22 - [WASAI: uncovering vulnerabilities in Wasm smart contracts.]()
+* ISSTA 22 - [Finding permission bugs in smart contracts with role mining]()
+* ISSTA 22 - [eTainter: detecting gas-related vulnerabilities in smart contracts]()
+* ISSTA 22 - [Park: accelerating smart contract vulnerability detection via parallel-fork symbolic execution.]()
+* ISSTA 22 - [SmartDagger: a bytecode-based static analysis approach for detecting cross-contract vulnerability.]()
+* ISSTA 22 - [SpCon: Finding Smart Contract Permission Bugs with Role Mining.]()
+* ISSTA 21 - [Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?.]()
+* ISSTA 21 - [SCStudio: A Secure and Efficient Integrated Development Environment for Smart Contracts.]()
+* ISSTA 20 - [How effective are smart contract analysis tools? evaluating smart contract static analysis tools using bug injection.]()
+* ISSTA 20 - [Echidna: effective, usable, and fast fuzzing for smart contracts.]()
+* ISSTA 20 - [EShield: protect smart contracts against reverse engineering.]()
+* ISSTA 19 - [SAFEVM: a safety verifier for Ethereum smart contracts.]()
+* ISSTA 19 - [Exploiting the laws of order in smart contracts.]()
 
 #### Database
 
 ##### ICDE
 
-* ICDE 25 - [MEST: An Efficient Authenticated Secondary Index in Blockchain Systems.]
-* ICDE 25 - [Know Your Account: Double Graph Inference-based Account De-anonymization on Ethereum.]
+* ICDE 25 - [MEST: An Efficient Authenticated Secondary Index in Blockchain Systems.]()
+* ICDE 25 - [Know Your Account: Double Graph Inference-based Account De-anonymization on Ethereum.]()
 * ICDE 24 - [MuFuzz: Sequence-Aware Mutation and Seed Mask Guidance for Blockchain Smart Contract Fuzzing]()
 * ICDE 24 - [PrestigeBFT: Revolutionizing View Changes in BFT Consensus Algorithms with Reputation Mechanisms](https://ieeexplore.ieee.org/document/10598096)
 * ICDE 23 - [Scaling Blockchain Consensus via a Robust Shared Mempool]()
