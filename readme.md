@@ -8,6 +8,11 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### CCS
 
+* CCS 25 - [A Secure Sequencer and Data Availability Committee for Rollups]()
+* CCS 25 - [Towards a Formal Foundation for Blockchain ZK Rollups]()
+* CCS 25 - [Denial of Sequencing Attacks in Ethereum Layer 2 Rollups]()
+* CCS 25 - [Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee]()
+* CCS 25 - [On Frontrunning Risks in Batch-Order Fair Systems for Blockchains]()
 * CCS 24 - [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TokenScout%3A+Early+Detection+of+Ethereum+Scam+Tokens+via+Temporal+Graph+Learning&btnG=)
 * CCS 24 - [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+Automatic+Discovery+of+Denial+of+Service+Weaknesses+in+Blockchain+Resource+Models&btnG=)
 * CCS 24 - [Lutris: A Blockchain Combining Broadcast and Consensus](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Lutris%3A+A+Blockchain+Combining+Broadcast+and+Consensus&btnG=)
