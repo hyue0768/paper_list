@@ -297,6 +297,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### SIGMETRICS
 
+* SIGMETRICS 26 - [Shedding Light on Shadows: Automatically Tracing Illicit Money Flows on EVM-Compatible Blockchains](https://yajin.org/papers/sigmetrics26_huo.pdf)
 * SIGMETRICS 25 - [The Last Survivor of PoS Pools: Staker's Dilemma](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=The+Last+Survivor+of+PoS+Pools%3A+Staker%27s+Dilemma&btnG=)
 * SIGMETRICS 25 - [Blockchain Amplification Attack.]()
 * SIGMETRICS 25 - [Phishing Tactics Are Evolving: An Empirical Study of Phishing Contracts on Ethereum.]()
