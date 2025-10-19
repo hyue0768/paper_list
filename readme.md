@@ -67,6 +67,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * SP 25 - [P2C2T: Preserving the Privacy of Cross-Chain Transfer](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a051/21B7QYE5x8Q)
 * SP 25 - [Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a042/21B7QvjJ9Ty)
 * SP 25 - [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://arxiv.org/pdf/2407.03543)
+* SP 24 - [SoK: Security and Privacy of Blockchain Interoperability](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SoK%3A+Security+and+Privacy+of+Blockchain+Interoperability&btnG=)
 * SP 24 - [Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a220/1WPcYKIy2NG)
 * SP 24 - [Non-Atomic Arbitrage in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Non-Atomic+Arbitrage+in+Decentralized+Finance&btnG=)
 * SP 24 - [Routing Attacks on Cryptocurrency Mining Pools](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Routing+Attacks+on+Cryptocurrency+Mining+Pools&btnG=)
