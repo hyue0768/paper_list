@@ -320,6 +320,8 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### IMC 
 
 * IMC 25 - [Unmasking the Shadow Economy: A Deep Dive into Drainer-as-a-Service Phishing on Ethereum](https://yajin.org/papers/imc26_daas.pdf)
+* IMC 25 - [Quantifying the Threat of Sandwiching MEV on Jito: A Measurement of Solana‚Äôs Leading Validator Client.]()
+* IMC 25 - [The Decentralization Dilemma: Performance Trade-Offs in IPFS and Breakpoints.]()
 * IMC 24 - [Analyzing the Impact of Copying-and-Pasting Vulnerable Solidity Code Snippets from Question-and-Answer Websites.]()
 * IMC 23 - [Ethereum's Proposer-Builder Separation- Promises and Realities](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Ethereum%27s+Proposer-Builder+Separation-+Promises+and+Realities&btnG=)
 * IMC 23 - [The Cloud Strikes Back: Investigating the Decentralization of IPFS](https://dl.acm.org/doi/abs/10.1145/3618257.3624797)
