@@ -195,6 +195,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### Asia CCS
 
+* Asia CCS 25 - [An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities](https://dl.acm.org/doi/pdf/10.1145/3708821.3733878)
 * Asia CCS 25 - [Mining Attack with Zero Knowledge in the Blockchain.]()
 * Asia CCS 25 - [Infiltrated Selfish Mining: Think Win-Win to Escape Dilemmas](https://dl.acm.org/doi/full/10.1145/3708821.3736191?casa_token=g8Tpys-Mtu0AAAAA%3AuzKgS_VI7g7DBaJdf0g3rW5WwBO2hiNLPN5I_owkNNSmKEkec0zrqpzhW549_lLFCn-VZyWKObxqbIV_)
 * Asia CCS 25 - [FIRST: FrontrunnIng Resistant Smart ConTracts.]()
