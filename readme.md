@@ -379,6 +379,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 ##### ASE
 
 * ASE 25 - [HighGuard: Cross-Chain Business Logic Monitoring of Smart Contracts](https://www.researchgate.net/profile/Mojtaba-Eshghie/publication/385287338_HighGuard_Cross-Chain_Business_Logic_Monitoring_of_Smart_Contracts/links/6724db922326b47637bf78a4/HighGuard-Cross-Chain-Business-Logic-Monitoring-of-Smart-Contracts.pdf)
+* ASE 25 - [Demystifying OpenZeppelin’s Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts]()
 * ASE 24 - [Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Skyeye%3A+Detecting+Imminent+Attacks+via+Analyzing+Adversarial+Smart+Contracts&btnG=)
 * ASE 24 - [AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AdvSCanner%3A+Generating+Adversarial+Smart+Contracts+to+Exploit+Reentrancy+Vulnerabilities+Using+LLM+and+Static+Analysis&btnG=)
 * ASE 24 - [Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models](https://arxiv.org/pdf/2411.07498)
