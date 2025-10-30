@@ -107,6 +107,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * Security 25 - [COLLISIONREPAIR: First-Aid and Automated Patching for Storage Collision Vulnerabilities in Smart Contracts.]()
 * Security 25 - [Let's Move2EVM.]()
 * Security 25 - [BEAT-MEV: Epochless Approach to Batched Threshold Encryption for MEV Prevention.]()
+* Security 25 - [Blockchain Address Poisoning]()
 * Security 25 - [Voting-Bloc Entropy: A New Metric for DAO Decentralization.]()
 * Security 25 - [Automated Soundness and Completeness Vetting of Polygon.]()
 * Security 24 - [All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=All+Your+Tokens+are+Belong+to+Us%3A+Demystifying+Address+Verification+Vulnerabilities+in+Solidity+Smart+Contracts&btnG=)
