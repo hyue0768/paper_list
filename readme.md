@@ -336,6 +336,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### KDD
 
+* KDD 25 - [Chainlet Orbits: Topological Address Embedding for Blockchain]()
 * KDD 24 - [TEMPER: Capturing Consistent and Fluctuating TEMPoral User Behaviour for EtheReum Phishing Scam Detection.]()
 * KDD 24 - [BitLINK: Temporal Linkage of Address Clusters in Bitcoin Blockchain]().
 * KDD 24 - [Money Never Sleeps: Maximizing Liquidity Mining Yields in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Money+Never+Sleeps%3A+Maximizing+Liquidity+Mining+Yields+in+Decentralized+Finance&btnG=)
