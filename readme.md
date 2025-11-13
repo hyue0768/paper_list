@@ -198,8 +198,15 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 * Asia CCS 25 - [An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities](https://dl.acm.org/doi/pdf/10.1145/3708821.3733878)
 * Asia CCS 25 - [Mining Attack with Zero Knowledge in the Blockchain.]()
+* Asia CCS 25 - [VeRange: Verification-efficient Zero-knowledge Range Arguments with Transparent Setup for Blockchain Applications and More]()
 * Asia CCS 25 - [Infiltrated Selfish Mining: Think Win-Win to Escape Dilemmas](https://dl.acm.org/doi/full/10.1145/3708821.3736191?casa_token=g8Tpys-Mtu0AAAAA%3AuzKgS_VI7g7DBaJdf0g3rW5WwBO2hiNLPN5I_owkNNSmKEkec0zrqpzhW549_lLFCn-VZyWKObxqbIV_)
 * Asia CCS 25 - [FIRST: FrontrunnIng Resistant Smart ConTracts.]()
+* Asia CCS 25 - [poqeth: Efficient, post-quantum signature verification on Ethereum]()
+* Asia CCS 25 - [BRC20 Snipping Attack]()
+* Asia CCS 25 - [Pace: Privacy-preserving and Atomic Cross-chain Swaps for Cryptocurrency Exchanges]()
+* Asia CCS 25 - [Fast SNARK-based Non-Interactive Distributed Verifiable Random Function with Ethereum Compatibility]()
+* Asia CCS 25 - [BIP32-Compatible Threshold Wallets]()
+* Asia CCS 25 - [Infiltrated Selfish Mining: Think Win-Win to Escape Dilemmas]()
 * Asia CCS 22 - [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390)()
 
 ##### Euro SP
