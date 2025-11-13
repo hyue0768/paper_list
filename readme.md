@@ -211,6 +211,8 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### Euro SP
 
+* Euro SP 25 - [Commitment Attacks on Ethereum’s Reward Mechanism]()
+* Euro SP 25 - [Cybersquatting in Web3: The Case of NFT]()
 * Euro SP 23 - [EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation]().
 * Euro SP 23 - [Revelio: A Network-Level Privacy Attack in the Lightning Network.](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Revelio%3A+A+Network-Level+Privacy+Attack+in+the+Lightning+Network.&btnG=).
 
