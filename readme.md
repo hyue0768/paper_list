@@ -236,6 +236,8 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### NSDI
 
+* NSDI 25 - [Vegeta: Enabling Parallel Smart Contract Execution in Leaderless Blockchains](https://www.usenix.org/conference/nsdi25/presentation/xu-tianjing)
+* NSDI 25 - [Ladder: A Convergence-based Structured DAG Blockchain for High Throughput and Low Latency](https://www.usenix.org/conference/nsdi25/presentation/hu)
 * NSDI 24 - [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
 
 ##### ATC
