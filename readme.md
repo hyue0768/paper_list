@@ -106,8 +106,10 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 * Security 25 - [Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks]()
 * Security 25 - [COLLISIONREPAIR: First-Aid and Automated Patching for Storage Collision Vulnerabilities in Smart Contracts.]()
 * Security 25 - [Let's Move2EVM.]()
+* Security 25 - [Does Finality Gadget Finalize Your Block? A Case Study of Binance Consensus]()
 * Security 25 - [BEAT-MEV: Epochless Approach to Batched Threshold Encryption for MEV Prevention.]()
 * Security 25 - [Blockchain Address Poisoning]()
+* Security 25 - [Recover from Excessive Faults in Partially-Synchronous BFT SMR]()
 * Security 25 - [Voting-Bloc Entropy: A New Metric for DAO Decentralization.]()
 * Security 25 - [Automated Soundness and Completeness Vetting of Polygon.]()
 * Security 24 - [All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=All+Your+Tokens+are+Belong+to+Us%3A+Demystifying+Address+Verification+Vulnerabilities+in+Solidity+Smart+Contracts&btnG=)
@@ -516,6 +518,11 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### ICDE
 
+* ICDE 25 - [E3FS: Efficient, Secure, and Verifiable Fuzzy Search with Data Updates in Hybrid-Storage Blockchains]()
+* ICDE 25 - [Loom: A Deterministic Execution Framework Towards Nested Contract Transactions]()
+* ICDE 25 - [MassBFT: Fast and Scalable Geo-Distributed Byzantine Fault-Tolerant Consensus]()
+* ICDE 25 - [A Deep Dive into Protocol Design: How to Improve IPFS Performance Without Sacrificing Decentralization]()
+* ICDE 25 - [VGQ: Enabling Verifiable Graph Queries on Blockchain Systems]()
 * ICDE 25 - [MEST: An Efficient Authenticated Secondary Index in Blockchain Systems.]()
 * ICDE 25 - [Know Your Account: Double Graph Inference-based Account De-anonymization on Ethereum.]()
 * ICDE 24 - [MuFuzz: Sequence-Aware Mutation and Seed Mask Guidance for Blockchain Smart Contract Fuzzing]()
