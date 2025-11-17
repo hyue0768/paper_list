@@ -392,8 +392,23 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### ASE
 
-* ASE 25 - [HighGuard: Cross-Chain Business Logic Monitoring of Smart Contracts](https://www.researchgate.net/profile/Mojtaba-Eshghie/publication/385287338_HighGuard_Cross-Chain_Business_Logic_Monitoring_of_Smart_Contracts/links/6724db922326b47637bf78a4/HighGuard-Cross-Chain-Business-Logic-Monitoring-of-Smart-Contracts.pdf)
+* ASE 25 - [Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment]()
+* ASE 25 - [ACTaint: Agent-Based Taint Analysis for Access Control Vulnerabilities in Smart Contracts]()
+* ASE 25 - [Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation]()
+* ASE 25 - [Detecting Various DeFi Price Manipulations with LLM Reasoning]()
+* ASE 25 - [Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study]()
+* ASE 25 - [Soleker: Uncovering Vulnerabilities in Solana Smart Contracts]()
+* ASE 25 - [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation]()
+* ASE 25 - [SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation]()
+* ASE 25 - [VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods]()
+* ASE 25 - [PROMFUZZ: Leveraging LLM-Driven and Bug-Oriented Composite Analysis for Detecting Functional Bugs in Smart Contracts]()
+* ASE 25 - [Leveraging Mixture-of-Experts Framework for Smart Contract Vulnerability Repair with Large Language Model]()
 * ASE 25 - [Demystifying OpenZeppelin’s Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts]()
+* ASE 25 - [Why Is My Transaction Risky? Understanding Smart Contract Semantics and Interactions in the NFT Ecosystem]()
+* ASE 25 - [FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization]()
+* ASE 25 - [Democratizing the Cryptocurrency Ecosystem by Just-In-Time Transformation of Mining Programs]()
+* ASE 25 - [SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking]()
+* ASE 24 - [HighGuard: Cross-Chain Business Logic Monitoring of Smart Contracts](https://www.researchgate.net/profile/Mojtaba-Eshghie/publication/385287338_HighGuard_Cross-Chain_Business_Logic_Monitoring_of_Smart_Contracts/links/6724db922326b47637bf78a4/HighGuard-Cross-Chain-Business-Logic-Monitoring-of-Smart-Contracts.pdf)
 * ASE 24 - [Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Skyeye%3A+Detecting+Imminent+Attacks+via+Analyzing+Adversarial+Smart+Contracts&btnG=)
 * ASE 24 - [AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AdvSCanner%3A+Generating+Adversarial+Smart+Contracts+to+Exploit+Reentrancy+Vulnerabilities+Using+LLM+and+Static+Analysis&btnG=)
 * ASE 24 - [Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models](https://arxiv.org/pdf/2411.07498)
@@ -430,6 +445,8 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### ICSE 
 
+* ICSE 26 - [FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction]()
+* ICSE 26 - [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts]()
 * ICSE 25 - [Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects]()
 * ICSE 25 - [Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration]()
 * ICSE 25 - [Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts]()
@@ -478,6 +495,7 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### ISSTA
 
+* ISSTA 25 - [Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts]()
 * ISSTA 25 - [Automated Attack Synthesis for Constant Product Market Makers]()
 * ISSTA 25 - [Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts]()
 * ISSTA 25 - [OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine]()
@@ -585,6 +603,13 @@ This file includes some DeFi and Blockchain papers from top-tier or well-known c
 
 ##### TSE
 
+* 2025 - []()
+* 2025 - [Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules]()
+* 2025 - [When Crypto Fails: Demystifying Cryptographic Defects in Ethereum Smart Contracts]()
+* 2025 - [NumScout: Unveiling Numerical Defects in Smart Contracts using LLM-Pruning Symbolic Execution]()
+* 2025 - [Malo in the Code Jungle: Explainable Fault Localization for Decentralized Applications]()
+* 2025 - [Who is Pulling the Strings: Unveiling Smart Contract State Manipulation Attacks through State-Aware Dataflow Analysis]()
+* 2025 - [Towards Exploring Developers’ Struggles in Developing Upgradeable Smart Contracts]()
 * 2024 - [CRPWarner: Warning the Risk of Contract-related Rug Pull in DeFi Smart Contracts.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CRPWarner%3A+Warning+the+Risk+of+Contract-related+Rug+Pull+in+DeFi+Smart+Contracts.&btnG=)
 * 2024 - [Unearthing Gas-Wasting Code Smells in Smart Contracts with Large Language Models](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unearthing+Gas-Wasting+Code+Smells+in+Smart+Contracts+with+Large+Language+Models&btnG=)
 * 2023 - [Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation](https://doi.org/10.1109/TSE.2023.3270117)
